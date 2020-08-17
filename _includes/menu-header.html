@@ -1,20 +1,38 @@
 <!--  Replace menu links here -->
 
+{% if page.url == "/" %}
+<li class="nav-item active">
+    {% else %}
 <li class="nav-item">
-<a class="nav-link" href="{{site.baseurl}}/index.html">Home</a>
+    {% endif %}
+<a class="nav-link" href="{{site.baseurl}}/">Accueil</a>
 </li>
+
+{% if page.url == "/categories" %}
+<li class="nav-item active">
+    {% else %}
 <li class="nav-item">
-<a class="nav-link" href="{{site.baseurl}}/authors-list.html">Authors</a>
+    {% endif %}
+<a class="nav-link" href="{{site.baseurl}}/categories">Catégories</a>
 </li>
+
+{% if page.url == "/about" %}
+<li class="nav-item active">
+    {% else %}
 <li class="nav-item">
-<a class="nav-link" href="{{site.baseurl}}/contact.html">Contact</a>
+    {% endif %}
+    <a class="nav-link" href="{{site.baseurl}}/about">A propos</a>
 </li>
+
+{% if page.url == "/contact" %}
+<li class="nav-item active">
+    {% else %}
 <li class="nav-item">
-<a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mundana-wordpress/">WP</a>
+    {% endif %}
+<a class="nav-link" href="{{site.baseurl}}/contact">Contact</a>
 </li>
+
 <li class="nav-item">
-<a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mundana-ghost/">Ghost</a>
-</li>
-<li class="nav-item">
-<a target="_blank" class="nav-link" href="https://www.wowthemes.net/donate/">Buy me a coffee <i class="fa fa-coffee text-danger"></i></a>
-</li>
+<a target="_blank" class="nav-link" href="https://noir-meilleur.digital">
+    by Noir Meilleur <i class="fa fa-external-link-alt"></i>
+</a></li>

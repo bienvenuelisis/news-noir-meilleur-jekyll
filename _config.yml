@@ -1,41 +1,52 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+name: 'News Noir Meilleur'
+description: "Toute l'actualité de la communauté noire, de l'Afrique et de sa diaspora."
+logo: 'assets/icons/icon.png'
+favicon: 'assets/icons/icon.png'
 #baseurl: ''
 baseurl: 'https://news.noir-meilleur.digital'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+disqus: 'news-noir-meilleur'
+email: 'elisis.author@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
-authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
- 
+authors:
+  sal:
+    name:           Sal
+    site:           https://www.wowthemes.net
+    avatar:         /assets/images/avatar1.jpg
+    bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+    email:          wowthemesnet@gmail.com
+    twitter:        https://twitter.com/wowthemesnet
+
+  jane:
+    name:           Jane
+    site:           https://www.wowthemes.net
+    avatar:         /assets/images/avatar2.jpg
+    bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+    email:          fakemail@gmail.com
+    twitter:        https://twitter.com/wowthemesnet
+
+  elisis:
+    name: Bienvenu Kokou AGBAVON
+    avatar: "assets/avatars/me.jpg"
+    display_name: Kokou AGBAVON
+    gravatar: c9908ff7b5184aae488be00a62a75c27
+    email: elisis.author@gmail.com
+    site: https://bienvenuelisis.github.io/
+    twitter: https://twitter.com/AgbavonB
+    social: https://www.linkedin.com/in/bienvenu-agbavon/
+    bio: "A Java Backend Programmer. IT Ingenior. Humanist blogger. African optimist"
+
 # Defaults
 defaults:
 
@@ -44,15 +55,15 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
-      
+      author: elisis
+      avatar: /assets/avatars/me.jpg
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
