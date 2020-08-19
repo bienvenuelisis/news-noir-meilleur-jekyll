@@ -1,5 +1,5 @@
 # Tasks
-1. Analytics
+~~1. Analytics~~
 2. Adsense
 3. Notifications
 4. Emails & Subscription
