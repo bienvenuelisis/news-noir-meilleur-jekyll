@@ -11,8 +11,6 @@ description: "Toute l'actualité de la communauté noire, de l'Afrique et de sa 
 
 {% if page.url == "/" %}
 
-
-
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
 
@@ -197,13 +195,14 @@ description: "Toute l'actualité de la communauté noire, de l'Afrique et de sa 
 
 </div>
 
+{% include BeforeArticleContentAds.html %}
 
 {% include sticky.html %}
 
 
 {% endif %} <!--endif page url is / -->
 
-
+{% include BeforeArticleContentAds.html %}
 
 <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
 
