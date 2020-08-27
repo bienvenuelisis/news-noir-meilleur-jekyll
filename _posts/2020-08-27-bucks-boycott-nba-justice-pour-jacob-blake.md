@@ -18,7 +18,6 @@ Jacob Blake recevra 4 balles des sept coups tirés et est actuellement hospitali
 Même si plusieurs sportifs, chanteurs et personnalités influentes aux Etats-Unis et de par le monde s'étaient déjà joints au mouvement pour réclamer des changements, cet incident semble être celui qui a sonné le glas de la patience des sportifs américains, ceux de la NBA, et plus particulièrement les joueurs de l'équipe locale, *les bucks* de Milwaukee.  
   
 {% if jekyll.environment == 'production' %}  
-<br>  
 <script async  
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">  
 </script>  
@@ -31,7 +30,6 @@ Même si plusieurs sportifs, chanteurs et personnalités influentes aux Etats-Un
 <script>  
     (adsbygoogle = window.adsbygoogle || []).push({});  
 </script>  
-<br>  
 {% endif %}    
 
 ---  
