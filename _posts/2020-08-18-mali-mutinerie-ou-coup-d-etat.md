@@ -4,7 +4,7 @@ author: elisis
 title:  "Situation au Mali : coup d'Etat ou simple mutinerie ?"
 categories: [ Politique ]
 image: assets/politique/Mali_Mutinerie_Militaires_Bain_de_foule.webp
-tags: [Afrique, Mali, IBK, Coup d'Etat, Mutinerie, 18 Août, featured]
+tags: [Afrique, Mali, IBK, Coup d'Etat, Mutinerie, 18 Août]
 ---
 
 Tout a commencé tôt ce mardi 18 août 2020 dans le camp militaire de Kati à 15 Km de Bamako. Des coups de feu sont entendus et on commence à évoquer une mutinerie. Le gouvernement à travers un communiqué a d'abord indiqué qu'il y avait effectivement des problèmes dans deux camps militaires et proposait une médiation pour trouver une solution. L'administration malienne a été à l'arrêt toute la journée. Les banques, les marchés et les espaces publics étaient fermés également.
