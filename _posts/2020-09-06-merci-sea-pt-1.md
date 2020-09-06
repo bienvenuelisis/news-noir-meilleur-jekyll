@@ -44,7 +44,7 @@ Il aura trouvé les filets en tout **19 fois** sous le maillot de son premier cl
 ![SEA, Monaco](/assets/Sport/sea/sea-monaco.webp)
 Courtisé par plusieurs clubs spécialement en Angleterre, où son profil plait énormément, SEA choisira finalement de continuer sur le sol français et s'engagera avec Monaco.
 
-Il fera face à une rude coincidence lors de sa première saison dans la principauté, mais réussissant tout de même à marquer 8 buts. 
+Il fera face à une rude concurrence lors de sa première saison dans la principauté, mais réussissant tout de même à marquer 8 buts. 
 La seconde sera du même acabit : il inscrira 9 buts en Ligue 1, auxquels s'ajoutera deux autres buts dans la compétition reine : la ligue des champions.
 
 **Il fera parti de l'équipe finaliste de cette édition 2004 de la Champions League.**
