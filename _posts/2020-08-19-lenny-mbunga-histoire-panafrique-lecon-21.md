@@ -4,7 +4,7 @@ author: elisis
 title:  "Petit cours d'histoire Panafricaine Leçon numéro 21: Traitre à l'Afrique."
 categories: [ Contenu Sociaux & Médias ]
 image: assets/Sociaux/lenny-mbunga-lecon21-histoire-panafrique.jpg
-tags: [Panafrique, Vidéo, Instagram, Lenny Mbunga, Histoire, featured]
+tags: [Panafrique, Vidéo, Instagram, Lenny Mbunga, Histoire]
 ---
 
 Lenny M'Bunga, humoriste français, d'origine congolaise se définit comme un humoriste panafricain.  Dans ses sketchs, ses chroniques, ses interviews et ses spectacles, il s’attelle à véhiculer un message d'ouverture d'esprit, de remise en cause des codes utilisés pour diviser et stigmatiser la communauté noire.

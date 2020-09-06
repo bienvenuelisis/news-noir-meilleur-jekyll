@@ -4,7 +4,7 @@ author: elisis
 title:  "Les Bucks boycottent leur match de play-off (NBA) pour protester contre les violences policières."
 categories: [ Sport, Evenements ]
 image: assets/Sport/blm-nba.jpg
-tags: [sticky, blm, usa, sport, nba, boycott, featured]
+tags: [blm, usa, sport, nba, boycott, featured]
 ---
 
 
