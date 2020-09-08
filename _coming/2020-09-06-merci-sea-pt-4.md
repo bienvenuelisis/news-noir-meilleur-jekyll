@@ -84,7 +84,7 @@ Adébayor, au delà du sportif est également un personnage hors-norme qui a tou
 
 ## Arsenal
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/XhnRt48L2CA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/XhnRt48L2CA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tottenham
 
@@ -98,11 +98,11 @@ Adébayor, au delà du sportif est également un personnage hors-norme qui a tou
 S'il ne fallait retenir qu'un seul match en club, cette maestro face à Chelsea :
 <iframe width="853" height="480" src="https://www.youtube.com/embed/64n3CEzyLCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Et en Equipe nationale cette performance de haut volée contre la Tunisie : 
+Et en Equipe nationale cette performance de haut volée contre l'Algérie : 
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/RuhInQ74Yjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Ainsi s'achève cette biographie du plus grand footballeur de tous les temps.
+Ainsi s'achève cette biographie du plus grand footballeur togolais de tous les temps.
 
 Suivez [les autres biographies de champions ici](/tags.html#champion).
 
