@@ -35,7 +35,7 @@ Ce n'est que l'année suivante après le départ de Thierry Henry que Shéyi, ma
 
 Le début de saison (2007-2008) annoncera les prémisses de cette année de records pour SEA. Il inscrira dès le 22 septembre face à Derby County, son premier triplé en carrière professionnelle. La machine était lancée. En tout Adébayor inscrira 30 buts sous les couleurs d'Arsenal cette saison. 
 
-En Premiere League, il sera longtemps au coude au coude avec Cristiano Ronaldo, pour le titre de meilleur buteur mais ce fera finalement évincée par un par ce dernier, qui fera sa meilleur année sous le maillot des Reds Devils.
+En Premiere League, il sera longtemps au coude au coude avec Cristiano Ronaldo, pour le titre de meilleur buteur mais ce fera finalement évincée par ce dernier, qui fera sa meilleur année sous le maillot des Reds Devils (Manchester United).
 
 Au summum de sa forme, il marquera 10 buts sur sept (7) matchs consécutifs. Cela lui vaudra un mini-reportage dans TéléFoot.
 
@@ -43,7 +43,7 @@ Au summum de sa forme, il marquera 10 buts sur sept (7) matchs consécutifs. Cel
 
 Il inscrira un florilège de buts fantastiques et importants durant cette année. Arsenal ne remportera pas la league cette année (3ème), mais ils se contenteront de la Coupe de Ligue. 
 
-Il sera sept années plébiscités par ses pairs et les amoureux du foot avec plusieurs distinctions :
+Il sera cette année, plébiscité par ses pairs et les amoureux du foot avec plusieurs distinctions :
 * **Footballeur Africain de l'année (Fin 2007)**, prix décerné par la BBC.
 * **Joueur Africain de l'année (2008)**, prix décerné par la CAF.
 * **Membre de l'équipe type du championnat d'Angleterre** pour la saison 2007-2008.

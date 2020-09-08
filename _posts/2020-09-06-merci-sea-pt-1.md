@@ -4,7 +4,7 @@ author: elisis
 title:  "Merci champion. (Adébayor) - Partie 1"
 categories: [ Sport ]
 image: assets/Sport/sea/sea-real-madrid.jpg
-tags: [sticky, afrique, sport, sea, champion, featured]
+tags: [afrique, sport, sea, champion, featured]
 ---
 
 
