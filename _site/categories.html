@@ -2,8 +2,6 @@
 <html lang="fr">
 <head>
 
-    <meta name="inxysmart-verification" content="0ae1dd3954ee840075de1395771b6c9c">
-
     <!-- This goes before </head> closing tag, Google Analytics can be placed here -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
@@ -66,6 +64,8 @@
 
     <!-- Bootstrap Modified -->
     <link rel="stylesheet" href="/assets/css/main.css">
+
+    <link rel="stylesheet" href="/assets/css/custom.css">
 
     <!-- Theme Stylesheet -->
     <link rel="stylesheet" href="/assets/css/theme.css">
@@ -168,7 +168,7 @@ var documents = [{
     "id": 6,
     "url": "/",
     "title": "Accueil",
-    "body": "{% if page. url ==  /  %}    {% assign latest_post = site. posts[0] %}        &lt;div class= topfirstimage  style= background-image: url({% if latest_post. image contains  ://  %}{{ latest_post. image }}{% else %} {{site. baseurl}}/{{ latest_post. image}}{% endif %}); height: 200px;  background-size: cover;  background-repeat: no-repeat; &gt;&lt;/div&gt;        {{ latest_post. title }}  :       {{ latest_post. excerpt | strip_html | strip_newlines | truncate: 136 }}               Catégories :         {% for category in latest_post. categories %}        {{ category }},         {% endfor %}                      {% assign m = latest_post. date | date:  %-m  %}      {{ latest_post. date | date:  %-d  }}      {% case m %}      {% when '1' %}Janvier      {% when '2' %}Février      {% when '3' %}Mars      {% when '4' %}Avril      {% when '5' %}Mai      {% when '6' %}Juin      {% when '7' %}Juillet      {% when '8' %}Août      {% when '9' %}Septembre      {% when '10' %}Octobre      {% when '11' %}Novembre      {% when '12' %}Décembre      {% endcase %}      {{ latest_post. date | date:  %Y  }}                      {%- assign second_post = site. posts[1] -%}            {% if second_post. image %}                         &lt;img class= w-100  src= {% if second_post. image contains  ://  %}{{ second_post. image }}{% else %} {{site. baseurl}}/{{ second_post. image }}{% endif %}  alt= {{ second_post. title }} &gt;                        {% endif %}                            {{ second_post. title }}          :                       Catégories :             {% for category in second_post. categories %}            {{ category }},             {% endfor %}                                            {% assign m = second_post. date | date:  %-m  %}            {{ second_post. date | date:  %-d  }}            {% case m %}            {% when '1' %}Janvier            {% when '2' %}Février            {% when '3' %}Mars            {% when '4' %}Avril            {% when '5' %}Mai            {% when '6' %}Juin            {% when '7' %}Juillet            {% when '8' %}Août            {% when '9' %}Septembre            {% when '10' %}Octobre            {% when '11' %}Novembre            {% when '12' %}Décembre            {% endcase %}            {{ second_post. date | date:  %Y  }}                                {%- assign third_post = site. posts[2] -%}            {% if third_post. image %}                         &lt;img class= w-100  src= {% if third_post. image contains  ://  %}{{ third_post. image }}{% else %}{{site. baseurl}}/{{ third_post. image }}{% endif %}  alt= {{ third_post. title }} &gt;                        {% endif %}                            {{ third_post. title }}          :                       Catégories :             {% for category in third_post. categories %}            {{ category }},             {% endfor %}                                            {% assign m = third_post. date | date:  %-m  %}            {{ third_post. date | date:  %-d  }}            {% case m %}            {% when '1' %}Janvier            {% when '2' %}Février            {% when '3' %}Mars            {% when '4' %}Avril            {% when '5' %}Mai            {% when '6' %}Juin            {% when '7' %}Juillet            {% when '8' %}Août            {% when '9' %}Septembre            {% when '10' %}Octobre            {% when '11' %}Novembre            {% when '12' %}Décembre            {% endcase %}            {{ third_post. date | date:  %Y  }}                                {%- assign fourth_post = site. posts[3] -%}            {% if fourth_post. image %}                        &lt;img class= w-100  src= {% if fourth_post. image contains  ://  %}{{ fourth_post. image }}{% else %}{{site. baseurl}}/{{ fourth_post. image }}{% endif %}  alt= {{ fourth_post. title }} &gt;                        {% endif %}                            {{ fourth_post. title }}          :                       Catégories :             {% for category in fourth_post. categories %}            {{ category }},             {% endfor %}                                            {% assign m = fourth_post. date | date:  %-m  %}            {{ fourth_post. date | date:  %-d  }}            {% case m %}            {% when '1' %}Janvier            {% when '2' %}Février            {% when '3' %}Mars            {% when '4' %}Avril            {% when '5' %}Mai            {% when '6' %}Juin            {% when '7' %}Juillet            {% when '8' %}Août            {% when '9' %}Septembre            {% when '10' %}Octobre            {% when '11' %}Novembre            {% when '12' %}Décembre            {% endcase %}            {{ fourth_post. date | date:  %Y  }}                          {% include ads. html %}{% include sticky. html %}{% endif %} {% include ads. html %}      Tous les articles:     {% for post in paginator. posts %}      {% include main-loop-card. html %}    {% endfor %}               {% if paginator. total_pages &gt; 1 %}             {% if paginator. previous_page %}                  &laquo; Précédent       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}                  {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}                  Suivant &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}            {% include sidebar-featured. html %}  "
+    "body": "{% if page. url ==  /  %}    {% assign latest_post = site. posts[0] %}        &lt;div class= topfirstimage  style= background-image: url({% if latest_post. image contains  ://  %}{{ latest_post. image }}{% else %} {{site. baseurl}}/{{ latest_post. image}}{% endif %}); height: 200px;  background-size: cover;  background-repeat: no-repeat; &gt;&lt;/div&gt;        {{ latest_post. title }}  :       {{ latest_post. excerpt | strip_html | strip_newlines | truncate: 136 }}               Catégories :         {% for category in latest_post. categories %}        {{ category }},         {% endfor %}                      {% assign m = latest_post. date | date:  %-m  %}      {{ latest_post. date | date:  %-d  }}      {% case m %}      {% when '1' %}Janvier      {% when '2' %}Février      {% when '3' %}Mars      {% when '4' %}Avril      {% when '5' %}Mai      {% when '6' %}Juin      {% when '7' %}Juillet      {% when '8' %}Août      {% when '9' %}Septembre      {% when '10' %}Octobre      {% when '11' %}Novembre      {% when '12' %}Décembre      {% endcase %}      {{ latest_post. date | date:  %Y  }}                      {%- assign second_post = site. posts[1] -%}            {% if second_post. image %}                         &lt;img class= w-100  src= {% if second_post. image contains  ://  %}{{ second_post. image }}{% else %} {{site. baseurl}}/{{ second_post. image }}{% endif %}  alt= {{ second_post. title }} &gt;                        {% endif %}                            {{ second_post. title }}          :                       Catégories :             {% for category in second_post. categories %}            {{ category }},             {% endfor %}                                            {% assign m = second_post. date | date:  %-m  %}            {{ second_post. date | date:  %-d  }}            {% case m %}            {% when '1' %}Janvier            {% when '2' %}Février            {% when '3' %}Mars            {% when '4' %}Avril            {% when '5' %}Mai            {% when '6' %}Juin            {% when '7' %}Juillet            {% when '8' %}Août            {% when '9' %}Septembre            {% when '10' %}Octobre            {% when '11' %}Novembre            {% when '12' %}Décembre            {% endcase %}            {{ second_post. date | date:  %Y  }}                                {%- assign third_post = site. posts[2] -%}            {% if third_post. image %}                         &lt;img class= w-100  src= {% if third_post. image contains  ://  %}{{ third_post. image }}{% else %}{{site. baseurl}}/{{ third_post. image }}{% endif %}  alt= {{ third_post. title }} &gt;                        {% endif %}                            {{ third_post. title }}          :                       Catégories :             {% for category in third_post. categories %}            {{ category }},             {% endfor %}                                            {% assign m = third_post. date | date:  %-m  %}            {{ third_post. date | date:  %-d  }}            {% case m %}            {% when '1' %}Janvier            {% when '2' %}Février            {% when '3' %}Mars            {% when '4' %}Avril            {% when '5' %}Mai            {% when '6' %}Juin            {% when '7' %}Juillet            {% when '8' %}Août            {% when '9' %}Septembre            {% when '10' %}Octobre            {% when '11' %}Novembre            {% when '12' %}Décembre            {% endcase %}            {{ third_post. date | date:  %Y  }}                                {%- assign fourth_post = site. posts[3] -%}            {% if fourth_post. image %}                        &lt;img class= w-100  src= {% if fourth_post. image contains  ://  %}{{ fourth_post. image }}{% else %}{{site. baseurl}}/{{ fourth_post. image }}{% endif %}  alt= {{ fourth_post. title }} &gt;                        {% endif %}                            {{ fourth_post. title }}          :                       Catégories :             {% for category in fourth_post. categories %}            {{ category }},             {% endfor %}                                            {% assign m = fourth_post. date | date:  %-m  %}            {{ fourth_post. date | date:  %-d  }}            {% case m %}            {% when '1' %}Janvier            {% when '2' %}Février            {% when '3' %}Mars            {% when '4' %}Avril            {% when '5' %}Mai            {% when '6' %}Juin            {% when '7' %}Juillet            {% when '8' %}Août            {% when '9' %}Septembre            {% when '10' %}Octobre            {% when '11' %}Novembre            {% when '12' %}Décembre            {% endcase %}            {{ fourth_post. date | date:  %Y  }}                          {% include amazon-index-horizontal. html %}{% include sticky. html %}{% endif %} {% include amazon-index-horizontal. html %}      Tous les articles:     {% for post in paginator. posts %}      {% include main-loop-card. html %}    {% endfor %}    {% include amazon-index-horizontal. html %}               {% if paginator. total_pages &gt; 1 %}             {% if paginator. previous_page %}                  &laquo; Précédent       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}                  {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}                  Suivant &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}            {% include sidebar-featured. html %}  "
     }, {
     "id": 7,
     "url": "/privacy-policy.html",
@@ -332,6 +332,7 @@ Septembre
 	</div>
 
 </div>
+
           
         
         
@@ -369,6 +370,7 @@ Août
 	</div>
 
 </div>
+
           
         
         
@@ -406,6 +408,7 @@ Août
 	</div>
 
 </div>
+
           
         
         
@@ -451,6 +454,7 @@ Août
 	</div>
 
 </div>
+
           
         
         
@@ -488,6 +492,7 @@ Août
 	</div>
 
 </div>
+
           
         
         
@@ -533,6 +538,7 @@ Septembre
 	</div>
 
 </div>
+
           
         
         
@@ -570,6 +576,7 @@ Septembre
 	</div>
 
 </div>
+
           
         
         
@@ -609,6 +616,7 @@ Août
 	</div>
 
 </div>
+
           
         
         
@@ -656,6 +664,7 @@ Août
 	</div>
 
 </div>
+
           
         
         
@@ -703,6 +712,7 @@ Septembre
 	</div>
 
 </div>
+
           
         
         
@@ -840,6 +850,14 @@ Septembre
 
 <script src="/assets/js/theme.js"></script>
 
+<script src="/assets/js/all.min.js"></script>
+<script src="/assets/js/amazon-ads.js"></script>
+
+<script>
+    $(document).ready(function () {
+
+    })
+</script>
 
 <!-- Footer -->
 
@@ -875,7 +893,6 @@ Septembre
     var infolinks_wsid = 0;
 </script>
 <script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
-
 
 </body>
 

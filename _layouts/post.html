@@ -62,7 +62,7 @@ layout: default
     <div class="row justify-content-center">
 
         <!-- Share -->
-        <div class="col-lg-2 pr-4 mb-4 col-md-12">
+        <div class="col-lg-1 pr-4 mb-4 col-md-12">
             <div class="sticky-top sticky-top-offset text-center">
                 <div class="text-muted">
                     Partagez
@@ -83,7 +83,7 @@ layout: default
 
         <div class="col-md-12 col-lg-8">
 
-            {% include ads.html %}
+            {% include amazon-before-article.html %}
 
             <!-- Article -->
             <article class="article-post">
@@ -111,7 +111,7 @@ layout: default
                     </div>
                     <div class="col-md-6">
                         <div class="row">
-                            <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form"
+                            <form action="#!" method="post" name="mc-embedded-subscribe-form"
                                   class="wj-contact-form validate w-100" target="_blank" novalidate>
                                 <div class="mc-field-group">
 
@@ -132,7 +132,7 @@ layout: default
             </div>
             {% endif %}
 
-            {% include ads.html %}
+            {% include amazon-after-article.html %}
 
             <!-- Author Box -->
             {% if page.author %}
@@ -159,7 +159,9 @@ layout: default
 
         </div>
 
-
+        <div class="col-lg-2 offset-lg-1 pr-4 mb-4 col-md-12">
+            {% include amazon-article-vertical.html %}
+        </div>
     </div>
 </div>
 

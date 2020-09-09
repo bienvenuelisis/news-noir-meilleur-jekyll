@@ -28,3 +28,5 @@ de l'actualité du site.
 
 <a target="_blank" style="color:blue; padding-left:14px;" href="https://www.facebook.com/noirmeilleurpage/"><i class="fab fa-facebook fa-2x"></i></a>
 </p>
+
+{% include amazon-index-horizontal.html %}

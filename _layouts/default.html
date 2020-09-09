@@ -2,8 +2,6 @@
 <html lang="fr">
 <head>
 
-    <meta name="inxysmart-verification" content="0ae1dd3954ee840075de1395771b6c9c">
-
     {% include tracking-header.html %}
 
     <meta charset="utf-8">
@@ -26,6 +24,8 @@
 
     <!-- Bootstrap Modified -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
+
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/custom.css">
 
     <!-- Theme Stylesheet -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css">
@@ -81,6 +81,14 @@
 
 <script src="{{site.baseurl}}/assets/js/theme.js"></script>
 
+<script src="{{site.baseurl}}/assets/js/all.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/amazon-ads.js"></script>
+
+<script>
+    $(document).ready(function () {
+
+    })
+</script>
 
 <!-- Footer -->
 
@@ -91,7 +99,6 @@
 {% include sumo-mailing-capture.html %}
 
 {% include info-link.html %}
-
 
 </body>
 

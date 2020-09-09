@@ -2,8 +2,6 @@
 <html lang="fr">
 <head>
 
-    <meta name="inxysmart-verification" content="0ae1dd3954ee840075de1395771b6c9c">
-
     <!-- This goes before </head> closing tag, Google Analytics can be placed here -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
@@ -70,6 +68,8 @@
 
     <!-- Bootstrap Modified -->
     <link rel="stylesheet" href="/assets/css/main.css">
+
+    <link rel="stylesheet" href="/assets/css/custom.css">
 
     <!-- Theme Stylesheet -->
     <link rel="stylesheet" href="/assets/css/theme.css">
@@ -147,7 +147,7 @@ var documents = [{
     "id": 1,
     "url": "/about.html",
     "title": "A propos",
-    "body": "  Grâce à ce média, nous souhaitons vulgariser toute l'information sur la communauté noire et   sa diaspora.     Ceci est une continuité du site Noir Meilleur   Des questions ? Envie de nous rejoindre ? Contactez moi ! Suivez nous sur les réseaux sociaux, souscrivez à la newsletter et/ou aux notifications pour être informé de l'actualité du site.  "
+    "body": "  Grâce à ce média, nous souhaitons vulgariser toute l'information sur la communauté noire et   sa diaspora.     Ceci est une continuité du site Noir Meilleur   Des questions ? Envie de nous rejoindre ? Contactez moi ! Suivez nous sur les réseaux sociaux, souscrivez à la newsletter et/ou aux notifications pour être informé de l'actualité du site.  {% include amazon-index-horizontal. html %} "
     }, {
     "id": 2,
     "url": "/author-bienvenu-kokou-agbavon.html",
@@ -172,7 +172,7 @@ var documents = [{
     "id": 6,
     "url": "/",
     "title": "Accueil",
-    "body": "{% if page. url ==  /  %}    {% assign latest_post = site. posts[0] %}        &lt;div class= topfirstimage  style= background-image: url({% if latest_post. image contains  ://  %}{{ latest_post. image }}{% else %} {{site. baseurl}}/{{ latest_post. image}}{% endif %}); height: 200px;  background-size: cover;  background-repeat: no-repeat; &gt;&lt;/div&gt;        {{ latest_post. title }}  :       {{ latest_post. excerpt | strip_html | strip_newlines | truncate: 136 }}               Catégories :         {% for category in latest_post. categories %}        {{ category }},         {% endfor %}                      {% assign m = latest_post. date | date:  %-m  %}      {{ latest_post. date | date:  %-d  }}      {% case m %}      {% when '1' %}Janvier      {% when '2' %}Février      {% when '3' %}Mars      {% when '4' %}Avril      {% when '5' %}Mai      {% when '6' %}Juin      {% when '7' %}Juillet      {% when '8' %}Août      {% when '9' %}Septembre      {% when '10' %}Octobre      {% when '11' %}Novembre      {% when '12' %}Décembre      {% endcase %}      {{ latest_post. date | date:  %Y  }}                      {%- assign second_post = site. posts[1] -%}            {% if second_post. image %}                         &lt;img class= w-100  src= {% if second_post. image contains  ://  %}{{ second_post. image }}{% else %} {{site. baseurl}}/{{ second_post. image }}{% endif %}  alt= {{ second_post. title }} &gt;                        {% endif %}                            {{ second_post. title }}          :                       Catégories :             {% for category in second_post. categories %}            {{ category }},             {% endfor %}                                            {% assign m = second_post. date | date:  %-m  %}            {{ second_post. date | date:  %-d  }}            {% case m %}            {% when '1' %}Janvier            {% when '2' %}Février            {% when '3' %}Mars            {% when '4' %}Avril            {% when '5' %}Mai            {% when '6' %}Juin            {% when '7' %}Juillet            {% when '8' %}Août            {% when '9' %}Septembre            {% when '10' %}Octobre            {% when '11' %}Novembre            {% when '12' %}Décembre            {% endcase %}            {{ second_post. date | date:  %Y  }}                                {%- assign third_post = site. posts[2] -%}            {% if third_post. image %}                         &lt;img class= w-100  src= {% if third_post. image contains  ://  %}{{ third_post. image }}{% else %}{{site. baseurl}}/{{ third_post. image }}{% endif %}  alt= {{ third_post. title }} &gt;                        {% endif %}                            {{ third_post. title }}          :                       Catégories :             {% for category in third_post. categories %}            {{ category }},             {% endfor %}                                            {% assign m = third_post. date | date:  %-m  %}            {{ third_post. date | date:  %-d  }}            {% case m %}            {% when '1' %}Janvier            {% when '2' %}Février            {% when '3' %}Mars            {% when '4' %}Avril            {% when '5' %}Mai            {% when '6' %}Juin            {% when '7' %}Juillet            {% when '8' %}Août            {% when '9' %}Septembre            {% when '10' %}Octobre            {% when '11' %}Novembre            {% when '12' %}Décembre            {% endcase %}            {{ third_post. date | date:  %Y  }}                                {%- assign fourth_post = site. posts[3] -%}            {% if fourth_post. image %}                        &lt;img class= w-100  src= {% if fourth_post. image contains  ://  %}{{ fourth_post. image }}{% else %}{{site. baseurl}}/{{ fourth_post. image }}{% endif %}  alt= {{ fourth_post. title }} &gt;                        {% endif %}                            {{ fourth_post. title }}          :                       Catégories :             {% for category in fourth_post. categories %}            {{ category }},             {% endfor %}                                            {% assign m = fourth_post. date | date:  %-m  %}            {{ fourth_post. date | date:  %-d  }}            {% case m %}            {% when '1' %}Janvier            {% when '2' %}Février            {% when '3' %}Mars            {% when '4' %}Avril            {% when '5' %}Mai            {% when '6' %}Juin            {% when '7' %}Juillet            {% when '8' %}Août            {% when '9' %}Septembre            {% when '10' %}Octobre            {% when '11' %}Novembre            {% when '12' %}Décembre            {% endcase %}            {{ fourth_post. date | date:  %Y  }}                          {% include ads. html %}{% include sticky. html %}{% endif %} {% include ads. html %}      Tous les articles:     {% for post in paginator. posts %}      {% include main-loop-card. html %}    {% endfor %}               {% if paginator. total_pages &gt; 1 %}             {% if paginator. previous_page %}                  &laquo; Précédent       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}                  {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}                  Suivant &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}            {% include sidebar-featured. html %}  "
+    "body": "{% if page. url ==  /  %}    {% assign latest_post = site. posts[0] %}        &lt;div class= topfirstimage  style= background-image: url({% if latest_post. image contains  ://  %}{{ latest_post. image }}{% else %} {{site. baseurl}}/{{ latest_post. image}}{% endif %}); height: 200px;  background-size: cover;  background-repeat: no-repeat; &gt;&lt;/div&gt;        {{ latest_post. title }}  :       {{ latest_post. excerpt | strip_html | strip_newlines | truncate: 136 }}               Catégories :         {% for category in latest_post. categories %}        {{ category }},         {% endfor %}                      {% assign m = latest_post. date | date:  %-m  %}      {{ latest_post. date | date:  %-d  }}      {% case m %}      {% when '1' %}Janvier      {% when '2' %}Février      {% when '3' %}Mars      {% when '4' %}Avril      {% when '5' %}Mai      {% when '6' %}Juin      {% when '7' %}Juillet      {% when '8' %}Août      {% when '9' %}Septembre      {% when '10' %}Octobre      {% when '11' %}Novembre      {% when '12' %}Décembre      {% endcase %}      {{ latest_post. date | date:  %Y  }}                      {%- assign second_post = site. posts[1] -%}            {% if second_post. image %}                         &lt;img class= w-100  src= {% if second_post. image contains  ://  %}{{ second_post. image }}{% else %} {{site. baseurl}}/{{ second_post. image }}{% endif %}  alt= {{ second_post. title }} &gt;                        {% endif %}                            {{ second_post. title }}          :                       Catégories :             {% for category in second_post. categories %}            {{ category }},             {% endfor %}                                            {% assign m = second_post. date | date:  %-m  %}            {{ second_post. date | date:  %-d  }}            {% case m %}            {% when '1' %}Janvier            {% when '2' %}Février            {% when '3' %}Mars            {% when '4' %}Avril            {% when '5' %}Mai            {% when '6' %}Juin            {% when '7' %}Juillet            {% when '8' %}Août            {% when '9' %}Septembre            {% when '10' %}Octobre            {% when '11' %}Novembre            {% when '12' %}Décembre            {% endcase %}            {{ second_post. date | date:  %Y  }}                                {%- assign third_post = site. posts[2] -%}            {% if third_post. image %}                         &lt;img class= w-100  src= {% if third_post. image contains  ://  %}{{ third_post. image }}{% else %}{{site. baseurl}}/{{ third_post. image }}{% endif %}  alt= {{ third_post. title }} &gt;                        {% endif %}                            {{ third_post. title }}          :                       Catégories :             {% for category in third_post. categories %}            {{ category }},             {% endfor %}                                            {% assign m = third_post. date | date:  %-m  %}            {{ third_post. date | date:  %-d  }}            {% case m %}            {% when '1' %}Janvier            {% when '2' %}Février            {% when '3' %}Mars            {% when '4' %}Avril            {% when '5' %}Mai            {% when '6' %}Juin            {% when '7' %}Juillet            {% when '8' %}Août            {% when '9' %}Septembre            {% when '10' %}Octobre            {% when '11' %}Novembre            {% when '12' %}Décembre            {% endcase %}            {{ third_post. date | date:  %Y  }}                                {%- assign fourth_post = site. posts[3] -%}            {% if fourth_post. image %}                        &lt;img class= w-100  src= {% if fourth_post. image contains  ://  %}{{ fourth_post. image }}{% else %}{{site. baseurl}}/{{ fourth_post. image }}{% endif %}  alt= {{ fourth_post. title }} &gt;                        {% endif %}                            {{ fourth_post. title }}          :                       Catégories :             {% for category in fourth_post. categories %}            {{ category }},             {% endfor %}                                            {% assign m = fourth_post. date | date:  %-m  %}            {{ fourth_post. date | date:  %-d  }}            {% case m %}            {% when '1' %}Janvier            {% when '2' %}Février            {% when '3' %}Mars            {% when '4' %}Avril            {% when '5' %}Mai            {% when '6' %}Juin            {% when '7' %}Juillet            {% when '8' %}Août            {% when '9' %}Septembre            {% when '10' %}Octobre            {% when '11' %}Novembre            {% when '12' %}Décembre            {% endcase %}            {{ fourth_post. date | date:  %Y  }}                          {% include amazon-index-horizontal. html %}{% include sticky. html %}{% endif %} {% include amazon-index-horizontal. html %}      Tous les articles:     {% for post in paginator. posts %}      {% include main-loop-card. html %}    {% endfor %}    {% include amazon-index-horizontal. html %}               {% if paginator. total_pages &gt; 1 %}             {% if paginator. previous_page %}                  &laquo; Précédent       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}                  {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}                  Suivant &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}            {% include sidebar-featured. html %}  "
     }, {
     "id": 7,
     "url": "/privacy-policy.html",
@@ -344,7 +344,7 @@ function lunr_search(term) {
     <div class="row justify-content-center">
 
         <!-- Share -->
-        <div class="col-lg-2 pr-4 mb-4 col-md-12">
+        <div class="col-lg-1 pr-4 mb-4 col-md-12">
             <div class="sticky-top sticky-top-offset text-center">
                 <div class="text-muted">
                     Partagez
@@ -365,7 +365,10 @@ function lunr_search(term) {
 
         <div class="col-md-12 col-lg-8">
 
-            
+            <div id="amazon-ads-before-article" class="ads-elements amazon-ads-iframe" data-random="true" data-min="1" data-max="1">
+
+</div>
+<br><br>
 
             <!-- Article -->
             <article class="article-post">
@@ -425,7 +428,7 @@ function lunr_search(term) {
                     </div>
                     <div class="col-md-6">
                         <div class="row">
-                            <form action="https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b" method="post" name="mc-embedded-subscribe-form"
+                            <form action="#!" method="post" name="mc-embedded-subscribe-form"
                                   class="wj-contact-form validate w-100" target="_blank" novalidate>
                                 <div class="mc-field-group">
 
@@ -446,7 +449,10 @@ function lunr_search(term) {
             </div>
             
 
-            
+            <div id="amazon-ads-after-article" class="ads-elements amazon-ads-iframe" data-random="true" data-min="1" data-max="1">
+
+</div>
+<br><br>
 
             <!-- Author Box -->
             
@@ -490,7 +496,12 @@ function lunr_search(term) {
 
         </div>
 
+        <div class="col-lg-2 offset-lg-1 pr-4 mb-4 col-md-12">
+            <div id="amazon-article-vertical" class="ads-elements amazon-ads-iframe" data-random="true" data-min="3" data-max="6">
 
+</div>
+<br><br>
+        </div>
     </div>
 </div>
 
@@ -529,6 +540,14 @@ function lunr_search(term) {
 
 <script src="/assets/js/theme.js"></script>
 
+<script src="/assets/js/all.min.js"></script>
+<script src="/assets/js/amazon-ads.js"></script>
+
+<script>
+    $(document).ready(function () {
+
+    })
+</script>
 
 <!-- Footer -->
 
@@ -564,7 +583,6 @@ function lunr_search(term) {
     var infolinks_wsid = 0;
 </script>
 <script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
-
 
 </body>
 
