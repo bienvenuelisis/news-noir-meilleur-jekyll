@@ -4,7 +4,7 @@ author: elisis
 title:  "Merci champion. (Adébayor) - Partie 2"
 categories: [ Sport ]
 image: assets/Sport/sea/sea-arsenal.png
-tags: [sticky, afrique, sport, sea, champion, featured]
+tags: [afrique, sport, sea, champion]
 ---
 
 
@@ -35,7 +35,7 @@ Ce n'est que l'année suivante après le départ de Thierry Henry que Shéyi, ma
 
 Le début de saison (2007-2008) annoncera les prémisses de cette année de records pour SEA. Il inscrira dès le 22 septembre face à Derby County, son premier triplé en carrière professionnelle. La machine était lancée. En tout Adébayor inscrira 30 buts sous les couleurs d'Arsenal cette saison. 
 
-En Premiere League, il sera longtemps au coude au coude avec Cristiano Ronaldo, pour le titre de meilleur buteur mais ce fera finalement évincée par ce dernier, qui fera sa meilleur année sous le maillot des Reds Devils (Manchester United).
+En Premiere League, il sera longtemps au coude à coude avec Cristiano Ronaldo, pour le titre de meilleur buteur mais se fera finalement évincé par ce dernier, qui fera sa meilleure année sous le maillot des Reds Devils (Manchester United).
 
 Au summum de sa forme, il marquera 10 buts sur sept (7) matchs consécutifs. Cela lui vaudra un mini-reportage dans TéléFoot.
 

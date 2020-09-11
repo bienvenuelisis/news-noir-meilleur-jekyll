@@ -4,7 +4,7 @@ author: elisis
 title:  "Merci champion. (Adébayor) - Partie 3"
 categories: [ Sport ]
 image: assets/Sport/sea/sea-celebrant-mancity.jpg
-tags: [sticky, afrique, sport, sea, champion, featured]
+tags: [sticky, afrique, sport, sea, champion]
 ---
 
 L'être humain, notre génération en particulier, a pris l'habitude de ne célébrer ses champions que lorsqu'ils n'étaient plus.
@@ -27,15 +27,15 @@ SEA sera recruté par Manchester City, pour un montant de 29 millions d'euros, e
 
 Il inscrira son premier but pour sa nouvelle formation, lors du premier match du championnat dès la deuxième minute. Il continuera sur cette lancée, marquant but sur but lors des journées qui ont suivi.
 
-Il jouera contre son ancienne équipe Arsenal, pour la première fois depuis son départ. Ce match rentrera dans les annales du foot, mais pas que pour ses enjeux sportifs. En effet, SEA frustré d'avoir de n'avoir pas été assez retenu par le club londonien narguera les supporters de son ancien club lors de la célébration de son but. S'en suivra durant le match des échauffourées entre lui et plusieurs autres anciens coéquipiers à Arsenal dont Alexandre Song et Van Persie.  
+Il jouera contre son ancienne équipe Arsenal, pour la première fois depuis son départ. Ce match restera un moment particulier, mais pas que pour ses enjeux sportifs. En effet, SEA frustré d'avoir de n'avoir peut être pas été assez retenu par le club londonien narguera les supporters de son ancien club lors de la célébration de son but. S'en suivra durant le match des échauffourées entre lui et plusieurs anciens coéquipiers, dont Alexandre Song et Van Persie.  
 
 Il recevra après analyse des vidéos du match une suspension de 3 matchs. 
 
 Emmanuel Adébayor aurait pu cette année être sur les traces de sa saison 2007-2008, mais les blessures, les suspensions pour des comportements jugés anti-sportifs et surtout l'incident de [Cabinda](https://www.rfi.fr/fr/afrique/20200108-drame-cabinda-10-ans-attaque-equipe-togo), ont plombé cette année qui semblait prometteur. 
 
-Il marquerait malgré tout pas moins de 14 buts en 26 apparitions lors du championnat. 
+Il marquerait malgré tout 14 buts en 26 apparitions lors du championnat. 
 
-Malgré cette saison plus qu'honorable, la suivante sera plus compliquée. En effet, l’entraîneur préférera mettre Carlos Tévez à la place de l'international Togolais dans le nouveau système mis en place cette année. 
+Malgré cette saison plus qu'honorable, la saison suivante sera plus compliquée. En effet, l’entraîneur préférera mettre Carlos Tévez à la place de l'international Togolais dans le nouveau système mis en place en ce début de saison. 
 
 Adébayor se contentera de quelques bouts de rencontres et brillera surtout en Ligue Europa ou il avait plus de temps de jeu. Il sera le premier citizen à inscrire un triplé dans cette cette compétition. 
 
@@ -43,7 +43,7 @@ Durant la première moitié de saison SEA jouera toutes compétitions confondues
 
 # La courte épopée au Real Madrid.
 
-Suite à la blessure de Gonzalo Higuain, la doublure au poste d'attaquant de pointe de Karim Benzema le Real Madrid recherche un attaquant de fixation performant pour palier à la blessure de Pipita (Gonzola Higuain). 
+Suite à la blessure de Gonzalo Higuain, la doublure au poste d'attaquant de pointe de Karim Benzema, le Real Madrid recherche un attaquant de fixation performant pour palier à l'absence prolongée de Pipita (Gonzola Higuain). 
 
 ![SEA énervé : Real Madrid](/assets/Sport/sea/sea-real-madrid-2.jpg)
 
@@ -55,7 +55,7 @@ Conscient de son rôle de remplaçant de luxe de Karim Benzema le titulaire indi
 
 Rapidement adopté par ses coéquipiers et le public, Adébayor disputera en tout 21 matchs avec les merengues. Il marquera 8 buts et remportera la coupe du Roi, le deuxième trophée majeur de sa carrière.
 
-Même si à la fin de la saison, le club madrilène décidera de ne pas lever l'option d'achat, Adébayor laissera une empreinte positive au Real tant par ses performances sur le terrain, que par son attitude en dehors. Il ambiancera le vestiaire madrilène de ces pas de dance légendaires.
+Même si à la fin de la saison, le club madrilène décidera de ne pas lever l'option d'achat, Adébayor laissera une empreinte positive au Real tant par ses performances sur le terrain, que par son attitude en dehors. Il ambiancera le vestiaire madrilène de ses pas de dance légendaires.
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/7qsLY44AQu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

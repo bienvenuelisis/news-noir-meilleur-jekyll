@@ -2,62 +2,66 @@
 title: "Accueil"
 layout: default
 pagination:
-    enabled: true
+enabled: true
 description: "Toute l'actualité de la communauté noire, de l'Afrique et de sa diaspora."
 ---
 
 
 <div class="container">
 
-{% if page.url == "/" %}
+    {% if page.url == "/" %}
 
-<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
-<div class="row remove-site-content-margin">
+    <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
+    <div class="row remove-site-content-margin">
 
-    <!-- latest post -->
-    {% assign latest_post = site.posts[0] %}
-    <div class="col-md-6">
-    <div class="card border-0 mb-4 box-shadow">
-    <a href="{{site.baseurl}}{{latest_post.url}}">
-    <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>
-    </a>
-    <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
-    <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a>
-    </h2>
-    <p class="excerpt">
-        {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
-    </p>
-    <div>
-        <small class="d-block text-muted">
-            Catégories : <span class="catlist">
+        <!-- latest post -->
+        {% assign latest_post = site.posts[0] %}
+        <div class="col-md-6">
+            <div class="card border-0 mb-4 box-shadow">
+                <a href="{{site.baseurl}}{{latest_post.url}}">
+                    <div class="topfirstimage" style="background-image: url({% if latest_post.image contains " :
+                    //" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height:
+                    200px; background-size: cover; background-repeat: no-repeat;"></div>
+            </a>
+            <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
+                <h2 class="h4 font-weight-bold">
+                    <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a>
+                </h2>
+                <p class="excerpt">
+                    {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
+                </p>
+                <div>
+                    <small class="d-block text-muted">
+                        Catégories : <span class="catlist">
                 {% for category in latest_post.categories %}
-                <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                <a class="text-capitalize text-muted smoothscroll"
+                   href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span
+                            class="sep">, </span>
                 {% endfor %}
                 </span>
-        </small>
-        <small class="text-muted">
-            {% assign m = latest_post.date | date: "%-m" %}
-            {{ latest_post.date | date: "%-d" }}
-            {% case m %}
-            {% when '1' %}Janvier
-            {% when '2' %}Février
-            {% when '3' %}Mars
-            {% when '4' %}Avril
-            {% when '5' %}Mai
-            {% when '6' %}Juin
-            {% when '7' %}Juillet
-            {% when '8' %}Août
-            {% when '9' %}Septembre
-            {% when '10' %}Octobre
-            {% when '11' %}Novembre
-            {% when '12' %}Décembre
-            {% endcase %}
-            {{ latest_post.date | date: "%Y" }}
-        </small>
-    </div>
-    </div>
-    </div>
+                    </small>
+                    <small class="text-muted">
+                        {% assign m = latest_post.date | date: "%-m" %}
+                        {{ latest_post.date | date: "%-d" }}
+                        {% case m %}
+                        {% when '1' %}Janvier
+                        {% when '2' %}Février
+                        {% when '3' %}Mars
+                        {% when '4' %}Avril
+                        {% when '5' %}Mai
+                        {% when '6' %}Juin
+                        {% when '7' %}Juillet
+                        {% when '8' %}Août
+                        {% when '9' %}Septembre
+                        {% when '10' %}Octobre
+                        {% when '11' %}Novembre
+                        {% when '12' %}Décembre
+                        {% endcase %}
+                        {{ latest_post.date | date: "%Y" }}
+                    </small>
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="col-md-6">
@@ -65,131 +69,140 @@ description: "Toute l'actualité de la communauté noire, de l'Afrique et de sa 
         <!-- second latest post -->
         {%- assign second_post = site.posts[1] -%}
         <div class="mb-3 d-flex align-items-center">
-                {% if second_post.image %}
-                <div class="col-md-4">
+            {% if second_post.image %}
+            <div class="col-md-4">
                 <a href="{{site.baseurl}}{{second_post.url}}">
-                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %} {{site.baseurl}}/{{ second_post.image }}{% endif %}" alt="{{ second_post.title }}">
+                    <img class="w-100" src="{% if second_post.image contains " ://" %}{{ second_post.image }}{% else %}
+                    {{site.baseurl}}/{{ second_post.image }}{% endif %}" alt="{{ second_post.title }}">
                 </a>
-                </div>
-                {% endif %}
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
+            </div>
+            {% endif %}
+            <div>
+                <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        Catégories : <span class="catlist">
+                </h2>
+                <small class="d-block text-muted">
+                    Catégories : <span class="catlist">
                         {% for category in second_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        <a class="text-capitalize text-muted smoothscroll"
+                           href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span
+                        class="sep">, </span>
                         {% endfor %}
                         </span>
-                    </small>
-                    <small class="text-muted">
-                        {% assign m = second_post.date | date: "%-m" %}
-                        {{ second_post.date | date: "%-d" }}
-                        {% case m %}
-                        {% when '1' %}Janvier
-                        {% when '2' %}Février
-                        {% when '3' %}Mars
-                        {% when '4' %}Avril
-                        {% when '5' %}Mai
-                        {% when '6' %}Juin
-                        {% when '7' %}Juillet
-                        {% when '8' %}Août
-                        {% when '9' %}Septembre
-                        {% when '10' %}Octobre
-                        {% when '11' %}Novembre
-                        {% when '12' %}Décembre
-                        {% endcase %}
-                        {{ second_post.date | date: "%Y" }}
-                    </small>
-                </div>
+                </small>
+                <small class="text-muted">
+                    {% assign m = second_post.date | date: "%-m" %}
+                    {{ second_post.date | date: "%-d" }}
+                    {% case m %}
+                    {% when '1' %}Janvier
+                    {% when '2' %}Février
+                    {% when '3' %}Mars
+                    {% when '4' %}Avril
+                    {% when '5' %}Mai
+                    {% when '6' %}Juin
+                    {% when '7' %}Juillet
+                    {% when '8' %}Août
+                    {% when '9' %}Septembre
+                    {% when '10' %}Octobre
+                    {% when '11' %}Novembre
+                    {% when '12' %}Décembre
+                    {% endcase %}
+                    {{ second_post.date | date: "%Y" }}
+                </small>
             </div>
+        </div>
 
         <!-- third latest post -->
         {%- assign third_post = site.posts[2] -%}
         <div class="mb-3 d-flex align-items-center">
-                {% if third_post.image %}
-                <div class="col-md-4">
+            {% if third_post.image %}
+            <div class="col-md-4">
                 <a href="{{site.baseurl}}{{third_post.url}}">
-                 <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
+                    <img class="w-100" src="{% if third_post.image contains " ://" %}{{ third_post.image }}{% else
+                    %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
                 </a>
-                </div>
-                {% endif %}
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
+            </div>
+            {% endif %}
+            <div>
+                <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        Catégories : <span class="catlist">
+                </h2>
+                <small class="d-block text-muted">
+                    Catégories : <span class="catlist">
                         {% for category in third_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        <a class="text-capitalize text-muted smoothscroll"
+                           href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span
+                        class="sep">, </span>
                         {% endfor %}
                         </span>
-                    </small>
-                    <small class="text-muted">
-                        {% assign m = third_post.date | date: "%-m" %}
-                        {{ third_post.date | date: "%-d" }}
-                        {% case m %}
-                        {% when '1' %}Janvier
-                        {% when '2' %}Février
-                        {% when '3' %}Mars
-                        {% when '4' %}Avril
-                        {% when '5' %}Mai
-                        {% when '6' %}Juin
-                        {% when '7' %}Juillet
-                        {% when '8' %}Août
-                        {% when '9' %}Septembre
-                        {% when '10' %}Octobre
-                        {% when '11' %}Novembre
-                        {% when '12' %}Décembre
-                        {% endcase %}
-                        {{ third_post.date | date: "%Y" }}
-                    </small>
-                </div>
+                </small>
+                <small class="text-muted">
+                    {% assign m = third_post.date | date: "%-m" %}
+                    {{ third_post.date | date: "%-d" }}
+                    {% case m %}
+                    {% when '1' %}Janvier
+                    {% when '2' %}Février
+                    {% when '3' %}Mars
+                    {% when '4' %}Avril
+                    {% when '5' %}Mai
+                    {% when '6' %}Juin
+                    {% when '7' %}Juillet
+                    {% when '8' %}Août
+                    {% when '9' %}Septembre
+                    {% when '10' %}Octobre
+                    {% when '11' %}Novembre
+                    {% when '12' %}Décembre
+                    {% endcase %}
+                    {{ third_post.date | date: "%Y" }}
+                </small>
             </div>
+        </div>
 
         <!-- fourth latest post -->
         {%- assign fourth_post = site.posts[3] -%}
         <div class="mb-3 d-flex align-items-center">
-                {% if fourth_post.image %}
-                <div class="col-md-4">
+            {% if fourth_post.image %}
+            <div class="col-md-4">
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
-                <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                    <img class="w-100" src="{% if fourth_post.image contains " ://" %}{{ fourth_post.image }}{% else
+                    %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
                 </a>
-                </div>
-                {% endif %}
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
+            </div>
+            {% endif %}
+            <div>
+                <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        Catégories : <span class="catlist">
+                </h2>
+                <small class="d-block text-muted">
+                    Catégories : <span class="catlist">
                         {% for category in fourth_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        <a class="text-capitalize text-muted smoothscroll"
+                           href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span
+                        class="sep">, </span>
                         {% endfor %}
                         </span>
-                    </small>
-                    <small class="text-muted">
-                        {% assign m = fourth_post.date | date: "%-m" %}
-                        {{ fourth_post.date | date: "%-d" }}
-                        {% case m %}
-                        {% when '1' %}Janvier
-                        {% when '2' %}Février
-                        {% when '3' %}Mars
-                        {% when '4' %}Avril
-                        {% when '5' %}Mai
-                        {% when '6' %}Juin
-                        {% when '7' %}Juillet
-                        {% when '8' %}Août
-                        {% when '9' %}Septembre
-                        {% when '10' %}Octobre
-                        {% when '11' %}Novembre
-                        {% when '12' %}Décembre
-                        {% endcase %}
-                        {{ fourth_post.date | date: "%Y" }}
-                    </small>
-                </div>
+                </small>
+                <small class="text-muted">
+                    {% assign m = fourth_post.date | date: "%-m" %}
+                    {{ fourth_post.date | date: "%-d" }}
+                    {% case m %}
+                    {% when '1' %}Janvier
+                    {% when '2' %}Février
+                    {% when '3' %}Mars
+                    {% when '4' %}Avril
+                    {% when '5' %}Mai
+                    {% when '6' %}Juin
+                    {% when '7' %}Juillet
+                    {% when '8' %}Août
+                    {% when '9' %}Septembre
+                    {% when '10' %}Octobre
+                    {% when '11' %}Novembre
+                    {% when '12' %}Décembre
+                    {% endcase %}
+                    {{ fourth_post.date | date: "%Y" }}
+                </small>
             </div>
+        </div>
     </div>
 </div>
 {% include amazon-index-horizontal.html %}
@@ -209,43 +222,42 @@ description: "Toute l'actualité de la communauté noire, de l'Afrique et de sa 
 
         <h4 class="font-weight-bold spanborder"><span>Tous les articles</span></h4>
 
-
         {% for post in paginator.posts %}
 
-            {% include main-loop-card.html %}
+        {% include main-loop-card.html %}
 
         {% endfor %}
 
-        {% include amazon-index-horizontal.html %}
-
         <div class="mt-5">
-         <!-- Pagination links -->
+            <!-- Pagination links -->
             {% if paginator.total_pages > 1 %}
             <ul class="pagination">
-              {% if paginator.previous_page %}
+                {% if paginator.previous_page %}
                 <li class="page-item">
-                    <a class="page-link" href="{{site.baseurl}}{{ paginator.previous_page_path }}">&laquo; Précédent</a></li>
-              {% else %}
+                    <a class="page-link" href="{{site.baseurl}}{{ paginator.previous_page_path }}">&laquo; Précédent</a>
+                </li>
+                {% else %}
                 <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
-              {% endif %}
+                {% endif %}
 
-              {% for page in (1..paginator.total_pages) %}
+                {% for page in (1..paginator.total_pages) %}
                 {% if page == paginator.page %}
                 <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
                 {% elsif page == 1 %}
                 <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
                 {% else %}
                 <li class="page-item">
-                    <a class="page-link" href="{{site.baseurl}}{{ site.paginate_path | replace: ':num', page }}">{{ page }}</a></li>
+                    <a class="page-link" href="{{site.baseurl}}{{ site.paginate_path | replace: ':num', page }}">{{ page
+                        }}</a></li>
                 {% endif %}
-              {% endfor %}
+                {% endfor %}
 
-              {% if paginator.next_page %}
+                {% if paginator.next_page %}
                 <li class="page-item">
                     <a class="page-link" href="{{site.baseurl}}{{ paginator.next_page_path }}">Suivant &raquo;</a></li>
-              {% else %}
+                {% else %}
                 <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
-              {% endif %}
+                {% endif %}
             </ul>
             {% endif %}
         </div>
@@ -257,7 +269,22 @@ description: "Toute l'actualité de la communauté noire, de l'Afrique et de sa 
     </div>
 
 </div>
+<br><br>
+<div class="row mt-3">
 
+    <div class="col-md-8 main-loop">
+
+        <h4 class="font-weight-bold spanborder"><span>Livres recommandés (Liens affiliés)</span></h4>
+
+        {% include amazon-index-products-native-ads-horizontal.html count=3 type="nm" %}
+
+    </div>
+
+    <div class="col-md-4">
+        {% include sidebar-amazon-books-audibles.html %}
+    </div>
+
+</div>
 
 
 </div>
