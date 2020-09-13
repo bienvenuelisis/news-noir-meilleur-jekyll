@@ -53,16 +53,17 @@ Une petite compilation de ces meilleurs buts dans les plus grands championnats.
 Sur les 5 années suivants son départ de Tottenham, Adébayor inscrira 31 autres buts, jouera pour 4 clubs, dans trois pays et continents différents.
 
 1. Adébayor jouera 6 mois, pour Crystal Palace et inscrira 1 buts en 15 apparitions.
-2. Il passera ensuite 3 saisons en SuperLig Turque, pour le club de **Istanbul Başakşehir**. Il marquera 28 buts en 76 matchs.
-3. Il posera ensuite ses valises, dans un autre club turque, le **Kayserispor**. Il y jouera 8 matchs et trouvera les cages adverses à deux reprises.
-4. SEA changera une nouvelle fois de compétition et créera la sensation en signant pour le club Olimpia, un club de la **Primera División** paraguayenne. Adébayor n'y jouera que 4 matchs après lesquels lui et le club mettront fin au contrat à l'amiable suite au contexte particulier du Coronavirus.
+2. Il passera ensuite 3 saisons en SuperLig Turque : 
+   * 2 saisons, pour le club de **Istanbul Başakşehir**. Il marquera 28 buts en 76 matchs.
+   * Il posera ensuite ses valises, dans un autre club turque, le **Kayserispor**. Il y jouera 8 matchs et trouvera les cages adverses à deux reprises.
+3. SEA changera une nouvelle fois de continent et créera la sensation en signant pour le club Olimpia, un club de la **Primera División** paraguayenne. Adébayor n'y jouera que 4 matchs après lesquels lui et le club mettront fin au contrat à l'amiable dans un contexte particulier lié au Coronavirus.
 
 
 # Parcours en Equipe nationale.
 
 ![SEA, Togo.](/assets/Sport/sea/sea-togo.jpg)
 
-Il y aura un avant et après Adébayor au sein de l'équipe nationale Togolaise. Après sera sélectionné pour la première fois en Juillet 2000 pour la confrontation entre le Togo et la Zambie. 
+Il y aura un avant et après Adébayor au sein de l'équipe nationale Togolaise. Il sera sélectionné pour la première fois en Juillet 2000 pour la confrontation entre le Togo et la Zambie. 
 
 S'en suivront près de vingt années au service de son pays, duquel il deviendra le capitaine emblématique. Il participera à quatre (4) Coupe d'Afrique des Nations.
 
