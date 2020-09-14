@@ -84,15 +84,15 @@ const adsAmazonVerticalIndexPC = [];
 let adsAmazonVerticalArticlePC = [];
 
 if (!isMobileDevice) {
-    adsAmazonVerticalIndexPC.push('<iframe class="ads-pc ads-element" src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ez&f=ifr&linkID=dd81e158a715fcf848c43c35eaa88c7c&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
-    adsAmazonVerticalIndexPC.push('<iframe class="ads-pc ads-element" src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=prime_video&banner=0VDXHW6JF4XFZYT7YPG2&f=ifr&linkID=3eba7fcf9e3b9cae5832f57cf3d60e6f&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
-    adsAmazonVerticalIndexPC.push('<iframe class="ads-pc ads-element" src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=amazon_business&banner=0C88S5GHZJ0VSEMQ9VG2&f=ifr&linkID=1cf04cf7de81cff6e595dbf151b8cc10&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
-    adsAmazonVerticalIndexPC.push('<iframe class="ads-pc ads-element" src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=primevideo&banner=0A63NK2PHTTJXR04T402&f=ifr&linkID=f2233e2f6d23f3ca8546c49043717e91&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
-    adsAmazonVerticalIndexPC.push('<iframe class="ads-pc ads-element" src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=primevideo&banner=0K75268K3AG9V9G1SNR2&f=ifr&linkID=952f4ef6253fd23eb2336a4e4d43395d&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
-    adsAmazonVerticalIndexPC.push('<iframe class="ads-pc ads-element" src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=primevideo&banner=00HS43DWTVHTZ5GXDB02&f=ifr&linkID=a761b38a5dfb176880199db450627260&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
-    adsAmazonVerticalIndexPC.push('<iframe class="ads-pc ads-element" src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=primevideo&banner=0Y9P9TRF2K4DJGW1V6G2&f=ifr&linkID=01af6c8d944a4a74a2da5026bfbfcc41&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
-    adsAmazonVerticalIndexPC.push('<iframe class="ads-pc ads-element" src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=primevideo&banner=1JX33ZZ90S1R2834ZR02&f=ifr&linkID=6315592e5ed3e3f96687b73318498240&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
-    adsAmazonVerticalIndexPC.push('<iframe class="ads-pc ads-element" src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=primevideo&banner=1SJMGYHC25BVWXZ1EPG2&f=ifr&linkID=ce0c996ba08278f5b243b5871f36ba98&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
+    adsAmazonVerticalIndexPC.push('<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ez&f=ifr&linkID=dd81e158a715fcf848c43c35eaa88c7c&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
+    adsAmazonVerticalIndexPC.push('<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=prime_video&banner=0VDXHW6JF4XFZYT7YPG2&f=ifr&linkID=3eba7fcf9e3b9cae5832f57cf3d60e6f&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
+    adsAmazonVerticalIndexPC.push('<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=amazon_business&banner=0C88S5GHZJ0VSEMQ9VG2&f=ifr&linkID=1cf04cf7de81cff6e595dbf151b8cc10&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
+    adsAmazonVerticalIndexPC.push('<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=primevideo&banner=0A63NK2PHTTJXR04T402&f=ifr&linkID=f2233e2f6d23f3ca8546c49043717e91&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
+    adsAmazonVerticalIndexPC.push('<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=primevideo&banner=0K75268K3AG9V9G1SNR2&f=ifr&linkID=952f4ef6253fd23eb2336a4e4d43395d&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
+    adsAmazonVerticalIndexPC.push('<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=primevideo&banner=00HS43DWTVHTZ5GXDB02&f=ifr&linkID=a761b38a5dfb176880199db450627260&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
+    adsAmazonVerticalIndexPC.push('<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=primevideo&banner=0Y9P9TRF2K4DJGW1V6G2&f=ifr&linkID=01af6c8d944a4a74a2da5026bfbfcc41&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
+    adsAmazonVerticalIndexPC.push('<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=primevideo&banner=1JX33ZZ90S1R2834ZR02&f=ifr&linkID=6315592e5ed3e3f96687b73318498240&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
+    adsAmazonVerticalIndexPC.push('<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=primevideo&banner=1SJMGYHC25BVWXZ1EPG2&f=ifr&linkID=ce0c996ba08278f5b243b5871f36ba98&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
     adsAmazonVerticalIndexPC.push('<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=29&l=ur1&category=logiciels&banner=0ST3Q1CTJPR2NZQMCK02&f=ifr&linkID=58bc37a80a0c7501b771630a54e261b1&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="120" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
     adsAmazonVerticalIndexPC.push('<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=11&l=ur1&category=amu&banner=08SZM1V6PAFPDEBERV02&f=ifr&linkID=ab45aaed27b7b3211110adf8bd1b67ee&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="120" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
     adsAmazonVerticalIndexPC.push('<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=14&l=ur1&category=wedding_registry&banner=0C9JXYPXPP5YADZ3N6R2&f=ifr&linkID=0321bb11f64eb7de4805dcf09f30d2d5&t=noirmeilleur-21&tracking_id=noirmeilleur-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>');
@@ -213,7 +213,7 @@ if (amazonServicesAds) {
     })
     adsServicesAmazonPC.push({
         service: 'kindle',
-        alt: 'Amazon Abonnement Kindle : Lisez en toute liberté sur tous vos appareils.\n',
+        alt: 'Amazon Abonnement Kindle : Lisez en toute liberté sur tous vos appareils.',
         shortlink: 'https://amzn.to/3m8AKH7',
         link: 'https://www.amazon.fr/kindle-dbs/hz/subscribe/ku/ref=as_li_ss_tl?&shoppingPortalEnabled=true&linkCode=ll2&tag=noirmeilleur-21&linkId=84a92338a7eb9cd79a82d78185998880&language=fr_FR'
     })
@@ -355,6 +355,33 @@ function adsAmazonBookAudiblesIndexSidebar() {
     });
 }
 
+const ecouteursBluetooth = '' +
+    '<span><u style="font-size: 15px;">Offres du jour</u></span><br>' +
+    '        <div class="mb-3 d-flex align-items-center">' +
+    '            <br><br>' +
+    '            <a target="_blank" href="https://wa.me/message/XM6HJP7XKJG4H1">' +
+    '                <img src="/assets/adsImages/ecouteur-bluetooth-18000FCFa.jpg">' +
+    '            </a>' +
+    '        </div>'
+
+function addAdsTo(adsHTML, elId, mob, pc) {
+    if (mob) {
+        if (isMobileDevice) {
+            $('#' + elId).prepend(adsHTML);
+        }
+    }
+
+    if (pc) {
+        if (!isMobileDevice) {
+            $('#' + elId).prepend(adsHTML);
+        }
+    }
+}
+
+function adsEcouteurs() {
+    addAdsTo(ecouteursBluetooth, 'posts-last', true, false);
+}
+
 function initSizeDeviceAds() {
     //Inits adds
     const adsPC = $('.ads-pc');
@@ -363,15 +390,28 @@ function initSizeDeviceAds() {
     const mob = $('.only-mob');
 
     if (isMobileDevice) {
+        hiddenEl(adsMob, false);
+        hiddenEl(mob, false);
+        hiddenEl(adsPC, true);
+        hiddenEl(pc, true);
+        adsMob.show();
+        mob.show();
         adsPC.hide();
         pc.hide();
     } else {
+        hiddenEl(adsMob, true);
+        hiddenEl(mob, true);
+        hiddenEl(adsPC, false);
+        hiddenEl(pc, false);
         adsMob.hide();
         mob.hide();
+        adsPC.show();
+        pc.show();
     }
 }
 
 function init() {
+    adsEcouteurs();
     adsBeforeArticle();
     adsAfterArticle();
     adsIndexHorizontal();
