@@ -3,8 +3,8 @@ name: 'News Noir Meilleur'
 description: "Toute l'actualité de la communauté noire, de l'Afrique et de sa diaspora."
 logo: 'assets/icons/icon.png'
 favicon: 'assets/icons/icon.png'
-baseurl: ''
-#baseurl: 'https://news.noir-meilleur.digital'
+#baseurl: ''
+baseurl: 'https://news.noir-meilleur.digital'
 disqus: 'news-noir-meilleur'
 email: 'elisis.author@gmail.com'
 

@@ -4,7 +4,7 @@ author: elisis
 title:  "Merci champion. (Adébayor) - Partie 3"
 categories: [ Sport ]
 image: assets/Sport/sea/sea-celebrant-mancity.jpg
-tags: [sticky, afrique, sport, sea, champion]
+tags: [afrique, sport, sea, champion]
 ---
 
 L'être humain, notre génération en particulier, a pris l'habitude de ne célébrer ses champions que lorsqu'ils n'étaient plus.
