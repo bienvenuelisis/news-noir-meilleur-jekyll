@@ -4,7 +4,7 @@ author: elisis
 title:  "Merci champion. (Adébayor) - Partie 4"
 categories: [ Sport ]
 image: assets/Sport/sea/sea-spurs-2.jpg
-tags: [sticky, afrique, sport, sea, champion, featured]
+tags: [afrique, sport, sea, champion, featured]
 ---
 
 L'être humain, notre génération en particulier, a pris l'habitude de ne célébrer ses champions que lorsqu'ils n'étaient plus.

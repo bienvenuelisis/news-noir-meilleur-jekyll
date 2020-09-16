@@ -4,7 +4,7 @@ author: elisis
 title:  "Démission du président Malien, Ibrahim Boubacar Keita."
 categories: [ Politique ]
 image: assets/politique/IBK-Mali-demission.jpg
-tags: [Afrique, Mali, IBK, Coup d'Etat, Mutinerie, 18 Août, featured]
+tags: [Afrique, Mali, IBK, Coup d'Etat, Mutinerie, 18 Août]
 ---
 
 

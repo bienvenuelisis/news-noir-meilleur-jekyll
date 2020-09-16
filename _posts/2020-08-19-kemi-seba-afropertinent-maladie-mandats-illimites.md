@@ -4,7 +4,7 @@ author: elisis
 title:  "Kémi SEBA : Afrique, La maladie des mandats illimités (AFRO PERTINENT)."
 categories: [ Contenu Sociaux & Médias ]
 image: assets/Sociaux/afro-pertinent-kemi-seba.jpg
-tags: [Panafrique, Vidéo, Instagram, Kémi SEBA, Histoire, Débat, Afro pertinent, featured]
+tags: [Panafrique, Vidéo, Instagram, Kémi SEBA, Histoire, Débat, Afro pertinent]
 ---
 
 
