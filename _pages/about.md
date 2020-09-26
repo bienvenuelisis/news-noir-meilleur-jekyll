@@ -6,7 +6,7 @@ comments: false
 ---
 
 <p>
-    Grâce à ce média, nous souhaitons vulgariser toute l'information sur la communauté noire et 
+    Grâce à ce média, nous souhaitons vulgariser toute l'information sur l'Afrique et 
     sa diaspora.
     <br><br>
     Ceci est une continuité du site <a target="_blank"

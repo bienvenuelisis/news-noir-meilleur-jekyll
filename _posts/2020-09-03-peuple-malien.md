@@ -4,7 +4,7 @@ author: elisis
 title:  "Et le peuple malien dans tout ça ?"
 categories: [ Politique, Événements ]
 image: assets/politique/peuple-malien-apres.webp
-tags: [sticky, mali, ibk, coup d'etat, peuple malien, cedeao, featured]
+tags: [mali, ibk, coup d'etat, peuple malien, cedeao, featured]
 ---
 
 

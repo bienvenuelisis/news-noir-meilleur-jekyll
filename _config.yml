@@ -1,6 +1,6 @@
 # Site
 name: 'News Noir Meilleur'
-description: "Toute l'actualité de la communauté noire, de l'Afrique et de sa diaspora."
+description: "Toute l'actualité de l'Afrique et de sa diaspora."
 logo: 'assets/icons/icon.png'
 favicon: 'assets/icons/icon.png'
 #baseurl: ''
@@ -34,7 +34,7 @@ amazonAds:
   nm:
     tab: [1, 2, 3, 4, 5]
   books:
-    tab: [1, 2,]
+    tab: [1, 2]
 
 # Defaults
 defaults:
