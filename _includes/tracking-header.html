@@ -1,8 +1,7 @@
 <!-- This goes before </head> closing tag, Google Analytics can be placed here -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 {% if jekyll.environment == 'production' %}
-<script data-ad-client="ca-pub-3022200405839941"
-        async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+<script data-ad-client="ca-pub-3022200405839941" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
 </script>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131918866-4"></script>
@@ -21,12 +20,15 @@
 <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
 <script>
     window.OneSignal = window.OneSignal || [];
-    OneSignal.push(function () {
+    OneSignal.push(function() {
         OneSignal.init({
-            appId: "94b83b3e-5039-4a02-932d-97ccfda761fb",
+            appId: "6dbb0f91-2dd5-44d5-ab96-79fab422ad3f",
         });
     });
 </script>
-<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101274545);</script>
+<script>
+    var clicky_site_ids = clicky_site_ids || [];
+    clicky_site_ids.push(101274545);
+</script>
 <script async src="//static.getclicky.com/js"></script>
 {% endif %}
