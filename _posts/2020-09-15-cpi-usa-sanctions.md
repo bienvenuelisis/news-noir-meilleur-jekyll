@@ -4,7 +4,7 @@ author: elisis
 title:  "Trump sanctionne des responsables de la CPI."
 categories: [ Politique, Événements ]
 image: assets/politique/sanctions_bensouda_cpi_etats_unis.jpg
-tags: [sticky, Panafrique, CPI, Etats Unis, Justice, featured]
+tags: [Panafrique, CPI, Etats Unis, Justice]
 ---
 
 

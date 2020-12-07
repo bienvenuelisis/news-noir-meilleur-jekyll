@@ -4,7 +4,7 @@ author: elisis
 title:  "Naomi Osaka, Porte drapeau de la justice raciale."
 categories: [ Sport, Evenements ]
 image: assets/Sport/naomi-osaka/naomi-osaka-us-open-african-outfit.jpg
-tags: [sticky, blm, tennis, sport, us open, justice raciale, featured]
+tags: [blm, tennis, sport, us open, justice raciale, featured]
 ---
 
 
