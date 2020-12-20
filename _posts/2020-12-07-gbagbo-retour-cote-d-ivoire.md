@@ -4,7 +4,7 @@ author: elisis
 title:  Laurent Gbagbo, autorisé à retourner en Côte d'Ivoire.
 categories: [ Politique, Événements, Brève ]
 image: assets/politique/gbagbo-retour-cote-d-ivoire.jpg
-tags: [sticky, CI, Laurent Gbagbo, Crise ivoirienne, featured]
+tags: [CI, Laurent Gbagbo, Crise ivoirienne, featured]
 ---
 
 

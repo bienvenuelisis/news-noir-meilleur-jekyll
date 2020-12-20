@@ -4,7 +4,7 @@ author: elisis
 title:  "L'OMS encourage l'Afrique à trouver des remèdes naturelles au COVID19."
 categories: [ Sante, Evenements ]
 image: assets/sante/afrique-coronavirus.webp
-tags: [sticky, coronavirus, afrique, oms, sante, featured]
+tags: [coronavirus, afrique, oms, sante, featured]
 ---
 
 

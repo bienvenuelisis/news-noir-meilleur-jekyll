@@ -39,6 +39,8 @@
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
 
+{% include google-manager-noscript.html %}
+
 <!-- Navbar -->
 <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container">
@@ -94,6 +96,11 @@
 
 {% include info-link.html %}
 
+<script type="application/javascript">
+    $(document).ready(function () {
+        $('#article-content a').attr("target", "_blank");
+    })
+</script>
 </body>
 
 </html>

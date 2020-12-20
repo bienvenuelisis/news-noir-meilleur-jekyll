@@ -10,7 +10,7 @@ comments: false
     sa diaspora.
     <br><br>
     Ceci est une continuité du site <a target="_blank"
-     href="https://noir-meilleur.digital/">Noir Meilleur</a>
+     href="https://noirmeilleur.com/">Noir Meilleur</a>
     <br>
 </p>
 

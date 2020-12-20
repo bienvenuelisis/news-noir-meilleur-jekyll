@@ -4,7 +4,7 @@ author: elisis
 title:  L'UA demande aux populations Africaines de rester mobilisé.
 categories: [ Sante, Brève ]
 image: assets/sante/ua-africains-rester-motiver-covid19.webp
-tags: [sticky, coronavirus, afrique, sante, featured]
+tags: [coronavirus, afrique, sante, featured]
 ---
 
 
