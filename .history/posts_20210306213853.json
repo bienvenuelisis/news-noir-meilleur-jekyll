@@ -1,0 +1,49 @@
+---
+layout: null
+# permalink: /api/
+---
+
+{
+	"homepage" : "{{ site.url }}",
+	"name": "{{ site.name }}",
+	"description": "{{ site.description }}",
+	"logo": "{{ site.logo }}",
+	"favicon": "{{ site.favicon }}",
+	"baseUrl": "{{ site.baseurl }}",
+	"disqus": "{{ site.disqus }}",
+	"email": "{{ site.email }}",
+	"paginate": "{{ site.paginate }}",
+	"plugins": {{ site.plugins | jsonify}},
+	"authors": {{ site.authors | jsonify}},
+	"tags": {{ site.tags | jsonify}},
+	"categories": {{ site.categories | jsonify}},
+	"posts" : [
+	{% for post in site.posts %}
+		{
+		"slug":"{{post.title | slugify}}",
+		"url":"{{site.url}}{{post.url}}",
+		"title":"{{post.title}}",
+		"date":"{{post.date}}",
+		"type":"{{post.layout}}",
+		"image":"{{post.image}}",
+		"author":{{site.authors[post.author] | jsonify}},
+		"read_time":"{{post.content | number_of_words | divided_by:180 }}",
+		"date_fr"     : {
+			"day"   : "{{ post.date | date: "%d" }}",
+			"month" : "{{ post.date | date: "%B" }}",
+			"year"  : "{{ post.date | date: "%Y" }}",
+			"complete"  : "{{ post.date | date: "%B, %d %Y" }}"
+		 },
+		 "date_en"     : {
+			"day"   : "{{ post.date | date: "%d" }}",
+			"month" : {% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %}"Janvier"{% when '2' %}"Février"{% when '3' %}"Mars"{% when '4' %}"Avril"{% when '5' %}"Mai"{% when '6' %}"Juin"{% when '7' %}"Juillet"{% when '8' %}"Août"{% when '9' %}"Septembre"{% when '10' %}"Octobre"{% when '11' %}"Novembre"{% when '12' %}"Décembre"{% endcase %},
+			"year"  : "{{ post.date | date: "%Y" }}",
+			"complete"  : "{{ post.date | date: "%d" }} {% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %}Janvier{% when '2' %}Février{% when '3' %}Mars{% when '4' %}Avril{% when '5' %}Mai{% when '6' %}Juin{% when '7' %}Juillet{% when '8' %}Août{% when '9' %}Septembre{% when '10' %}Octobre{% when '11' %}Novembre{% when '12' %}Décembre{% endcase %} {{ post.date | date: "%Y" }}"
+		 },
+		"categories":[{% for categories in post.categories %}"{{categories}}"{% if forloop.rindex0 > 0 %}, {% endif %}{% endfor %}],
+		"excerpt":{{post.excerpt | jsonify }},	
+		"content":{{post.content | jsonify }}	
+	}{% if forloop.rindex0 > 0 %},{% endif %}
+	{% endfor %}
+	]
+}

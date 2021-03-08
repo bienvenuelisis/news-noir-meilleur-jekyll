@@ -1,0 +1,394 @@
+{
+	"homepage" : "http://localhost:4000",
+	"name": "News Noir Meilleur",
+	"description": "Toute l'actualité de l'Afrique et de sa diaspora.",
+	"logo": "assets/icons/icon.png",
+	"favicon": "assets/icons/icon.png",
+	"baseUrl": "",
+	"disqus": "news-noir-meilleur",
+	"email": "elisis.author@gmail.com",
+	"paginate": "7",
+	"authors": [""],
+	"posts" : [
+	
+		{
+		"slug":"eco-la-machine-médiatique-française-se-met-en-marche",
+		"url":"http://localhost:4000/eco-machine-media-france-en-marche/",
+		"title":"ECO, la machine médiatique française se met en marche.",
+		"date":"2020-12-30 00:00:00 +0000",
+		"time":"2020-12-30 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "30",
+			"month" : "December",
+			"year"  : "2020",
+			"complete"  : "December, 30 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "30",
+			"month" : "Décembre",
+			"year"  : "2020",
+			"complete"  : "30 Décembre 2020"
+		 },
+		"categories":["Economie"],
+		"excerpt":""<p><strong><em><a href=\"https://www.youtube.com/watch?v=kAiklBct3cQ\">Le dernier acte terroriste</a></em></strong> de la France envers l’Afrique est la ratification de l’ECO, comme nouvelle monnaie devant remplacer le Franc CFA.</p>\n\n"",	
+	},
+	
+		{
+		"slug":"thomas-ngijol-militantisme-discret-et-permanent",
+		"url":"http://localhost:4000/thomas-ngijol-militantisme-discret-permanent/",
+		"title":"Thomas Ngijol, militantisme discret et permanent.",
+		"date":"2020-12-20 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "20",
+			"month" : "December",
+			"year"  : "2020",
+			"complete"  : "December, 20 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "20",
+			"month" : "Décembre",
+			"year"  : "2020",
+			"complete"  : "20 Décembre 2020"
+		 },
+		"categories":["Culture", "Champion", "Biographie"],
+		"excerpt":""<blockquote>\n  <p>Je ne me lève pas le matin en disant : vive le Cameroun.</p>\n</blockquote>\n\n"",	
+	},
+	
+		{
+		"slug":"l-ua-demande-aux-populations-africaines-de-rester-mobilisé",
+		"url":"http://localhost:4000/ua-africains-rester-motiver-covid19/",
+		"title":"L'UA demande aux populations Africaines de rester mobilisé.",
+		"date":"2020-12-07 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "07",
+			"month" : "December",
+			"year"  : "2020",
+			"complete"  : "December, 07 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "07",
+			"month" : "Décembre",
+			"year"  : "2020",
+			"complete"  : "07 Décembre 2020"
+		 },
+		"categories":["Sante", "Brève"],
+		"excerpt":""<h1 id=\"lagence-sanitaire-de-lua-demande-aux-populations-de-rester-mobilisées\">L’agence sanitaire de l’UA demande aux populations de rester mobilisées.</h1>\n\n"",	
+	},
+	
+		{
+		"slug":"laurent-gbagbo-autorisé-à-retourner-en-côte-d-ivoire",
+		"url":"http://localhost:4000/gbagbo-retour-cote-d-ivoire/",
+		"title":"Laurent Gbagbo, autorisé à retourner en Côte d'Ivoire.",
+		"date":"2020-12-07 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "07",
+			"month" : "December",
+			"year"  : "2020",
+			"complete"  : "December, 07 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "07",
+			"month" : "Décembre",
+			"year"  : "2020",
+			"complete"  : "07 Décembre 2020"
+		 },
+		"categories":["Politique", "Événements", "Brève"],
+		"excerpt":""<h2 id=\"laurent-gbagbo-a-obtenu-son-passport-et-envisage-de-retourner-en-côte-divoire\">Laurent Gbagbo a obtenu son passport et envisage de retourner en Côte d’Ivoire.</h2>\n\n"",	
+	},
+	
+		{
+		"slug":"les-grandes-fortunes-africaines-se-mobilisent-contre-le-coronavirus",
+		"url":"http://localhost:4000/fortunes-afrique-mobilises-contre-coronavirus/",
+		"title":"Les grandes fortunes africaines se mobilisent contre le coronavirus.",
+		"date":"2020-12-07 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "07",
+			"month" : "December",
+			"year"  : "2020",
+			"complete"  : "December, 07 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "07",
+			"month" : "Décembre",
+			"year"  : "2020",
+			"complete"  : "07 Décembre 2020"
+		 },
+		"categories":["Sante", "Brève"],
+		"excerpt":""<h2 id=\"des-milliardaires-nigérians-sud-africains-ou-encore-marocains-investissent-dans-la-riposte-contre-le-coronavirus\">Des milliardaires nigérians, sud-africains ou encore marocains investissent dans la riposte contre le coronavirus.</h2>\n\n"",	
+	},
+	
+		{
+		"slug":"l-oms-encourage-l-afrique-à-trouver-des-remèdes-naturelles-au-covid19",
+		"url":"http://localhost:4000/oms-recommande-med-trad-afrique/",
+		"title":"L'OMS encourage l'Afrique à trouver des remèdes naturelles au COVID19.",
+		"date":"2020-09-26 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "26",
+			"month" : "September",
+			"year"  : "2020",
+			"complete"  : "September, 26 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "26",
+			"month" : "Septembre",
+			"year"  : "2020",
+			"complete"  : "26 Septembre 2020"
+		 },
+		"categories":["Sante", "Evenements"],
+		"excerpt":""<p>La stratégie d’aide de l’OMS à la riposte de l’Afrique face au nouveau Coronavirus, est depuis le début passé par différentes phases. Depuis le Samedi 26 septembre 2020, cette stratégie a atteint un nouveau cap qui semblait loin de vue au départ : la reconnaissance de la capacité de l’Afrique à résister à la pandémie et à proposer des solutions non pas seulement pour le continent, mais également pour le monde entier.</p>\n\n"",	
+	},
+	
+		{
+		"slug":"naomi-osaka-porte-drapeau-de-la-justice-raciale",
+		"url":"http://localhost:4000/naomi-osaka-porte-drapeau-contre-racisme/",
+		"title":"Naomi Osaka, Porte drapeau de la justice raciale.",
+		"date":"2020-09-16 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "16",
+			"month" : "September",
+			"year"  : "2020",
+			"complete"  : "September, 16 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "16",
+			"month" : "Septembre",
+			"year"  : "2020",
+			"complete"  : "16 Septembre 2020"
+		 },
+		"categories":["Sport", "Evenements"],
+		"excerpt":""<p>Naomi Osaka est une joueuse de tennis japonaise, d’origine haïtienne, qui a grandi aux Etats Unis.</p>\n\n"",	
+	},
+	
+		{
+		"slug":"trump-sanctionne-des-responsables-de-la-cpi",
+		"url":"http://localhost:4000/cpi-usa-sanctions/",
+		"title":"Trump sanctionne des responsables de la CPI.",
+		"date":"2020-09-15 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "15",
+			"month" : "September",
+			"year"  : "2020",
+			"complete"  : "September, 15 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "15",
+			"month" : "Septembre",
+			"year"  : "2020",
+			"complete"  : "15 Septembre 2020"
+		 },
+		"categories":["Politique", "Événements"],
+		"excerpt":""<p>La CPI (Cours Pénale Internationale), créée en 2002 est une organisation internationale, chargée de juger les personnes accusées de génocide, de crime contre l’humanité, de crime d’agression, et de crime de guerre. De 60 pays à sa création, la CPI est passée aujourd’hui à 123 états parties qui ont signé et ratifié le statut de Londres, statut fondateur de l’organisation.</p>\n\n"",	
+	},
+	
+		{
+		"slug":"merci-champion-adébayor-partie-4",
+		"url":"http://localhost:4000/merci-sea-pt-4/",
+		"title":"Merci champion. (Adébayor) - Partie 4",
+		"date":"2020-09-12 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "12",
+			"month" : "September",
+			"year"  : "2020",
+			"complete"  : "September, 12 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "12",
+			"month" : "Septembre",
+			"year"  : "2020",
+			"complete"  : "12 Septembre 2020"
+		 },
+		"categories":["Sport"],
+		"excerpt":""<p>L’être humain, notre génération en particulier, a pris l’habitude de ne célébrer ses champions que lorsqu’ils n’étaient plus.</p>\n\n"",	
+	},
+	
+		{
+		"slug":"merci-champion-adébayor-partie-3",
+		"url":"http://localhost:4000/merci-sea-pt-3/",
+		"title":"Merci champion. (Adébayor) - Partie 3",
+		"date":"2020-09-10 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "10",
+			"month" : "September",
+			"year"  : "2020",
+			"complete"  : "September, 10 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "10",
+			"month" : "Septembre",
+			"year"  : "2020",
+			"complete"  : "10 Septembre 2020"
+		 },
+		"categories":["Sport"],
+		"excerpt":""<p>L’être humain, notre génération en particulier, a pris l’habitude de ne célébrer ses champions que lorsqu’ils n’étaient plus.</p>\n\n"",	
+	},
+	
+		{
+		"slug":"merci-champion-adébayor-partie-2",
+		"url":"http://localhost:4000/merci-sea-pt-2/",
+		"title":"Merci champion. (Adébayor) - Partie 2",
+		"date":"2020-09-08 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "08",
+			"month" : "September",
+			"year"  : "2020",
+			"complete"  : "September, 08 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "08",
+			"month" : "Septembre",
+			"year"  : "2020",
+			"complete"  : "08 Septembre 2020"
+		 },
+		"categories":["Sport"],
+		"excerpt":""<p>L’être humain, notre génération en particulier, a pris l’habitude de ne célébrer ses champions que lorsqu’ils n’étaient plus.</p>\n\n"",	
+	},
+	
+		{
+		"slug":"merci-champion-adébayor-partie-1",
+		"url":"http://localhost:4000/merci-sea-pt-1/",
+		"title":"Merci champion. (Adébayor) - Partie 1",
+		"date":"2020-09-06 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "06",
+			"month" : "September",
+			"year"  : "2020",
+			"complete"  : "September, 06 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "06",
+			"month" : "Septembre",
+			"year"  : "2020",
+			"complete"  : "06 Septembre 2020"
+		 },
+		"categories":["Sport"],
+		"excerpt":""<p>L’être humain, notre génération en particulier, a pris l’habitude de ne célébrer ses champions que lorsqu’ils n’étaient plus.</p>\n\n"",	
+	},
+	
+		{
+		"slug":"et-le-peuple-malien-dans-tout-ça",
+		"url":"http://localhost:4000/peuple-malien/",
+		"title":"Et le peuple malien dans tout ça ?",
+		"date":"2020-09-03 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "03",
+			"month" : "September",
+			"year"  : "2020",
+			"complete"  : "September, 03 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "03",
+			"month" : "Septembre",
+			"year"  : "2020",
+			"complete"  : "03 Septembre 2020"
+		 },
+		"categories":["Politique", "Événements"],
+		"excerpt":""<p>Depuis <a href=\"https://news.noir-meilleur.digital/mali-demission-ibk/\">le coup d’Etat au Mali</a>, <strong><em>il</em></strong> semble être le premier oublié de toutes les tractations externes et internes qui nagent à contre courant pour essayer de rétablir un chef d’Etat déchu rejeté par son peuple, ou de proposer une transition éclair et un gouvernement civil. <strong><em>Il</em></strong>, c’est <strong>le peuple malien</strong>.</p>\n\n"",	
+	},
+	
+		{
+		"slug":"les-bucks-boycottent-leur-match-de-play-off-nba-pour-protester-contre-les-violences-policières",
+		"url":"http://localhost:4000/bucks-boycott-nba-justice-pour-jacob-blake/",
+		"title":"Les Bucks boycottent leur match de play-off (NBA) pour protester contre les violences policières.",
+		"date":"2020-08-27 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "27",
+			"month" : "August",
+			"year"  : "2020",
+			"complete"  : "August, 27 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "27",
+			"month" : "Août",
+			"year"  : "2020",
+			"complete"  : "27 Août 2020"
+		 },
+		"categories":["Sport", "Evenements"],
+		"excerpt":""<p>C’est dans un climat déjà particulier, qui a engendré la plus grande contestation contre les violences &amp; crimes raciales des policiers blancs aux USA, qu’une dernière <em>bavure</em>, un crime commis par un officier blanc s’est produit.</p>\n\n<p>Selon des versions concordantes, Jacob Blake a tenté de séparer une bagarre entre plusieurs femmes. La police après avoir reçu un appel d’un témoin se rend sur les lieux.  <br />\nLa version de Jacob Blake et celle des policiers diffèrent sur la suite des événements, mais sur les <a target=\"_blank\" href=\"https://edition.cnn.com/videos/us/2020/08/26/jacob-blake-shooting-second-video-family-attorney-newday-vpx.cnn\">vidéos filmées</a> durant l’incident on voit Jacob Blake après une altercation avec deux flics se rendre vers sa voiture pour vérifier que ses 3 enfants allaient bien. Les policiers le suivent, lui injective de lever les mains en l’air, et l’un deux tire sept fois dans le dos de Jacob Blake alors que ce dernier est à même pas 50 mètres de distance.</p>\n\n<p>Jacob Blake recevra 4 balles des sept coups tirés et est actuellement hospitalisé. Même s’il est hors de danger de mort, les chances pour qu’il retrouve de la motricité un jour, sont quasiment nulles.</p>\n\n<p>Même si plusieurs sportifs, chanteurs et personnalités influentes aux Etats-Unis et de par le monde s’étaient déjà joints au mouvement pour réclamer des changements, cet incident semble être celui qui a sonné le glas de la patience des sportifs américains, ceux de la NBA, et plus particulièrement les joueurs de l’équipe locale, <em>les bucks</em> de Milwaukee.</p>\n\n"",	
+	},
+	
+		{
+		"slug":"démission-du-président-malien-ibrahim-boubacar-keita",
+		"url":"http://localhost:4000/mali-demission-ibk/",
+		"title":"Démission du président Malien, Ibrahim Boubacar Keita.",
+		"date":"2020-08-19 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "19",
+			"month" : "August",
+			"year"  : "2020",
+			"complete"  : "August, 19 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "19",
+			"month" : "Août",
+			"year"  : "2020",
+			"complete"  : "19 Août 2020"
+		 },
+		"categories":["Politique"],
+		"excerpt":""<p>Le président Malien Ibrahim Boubacar Keita, <a href=\"https://news.noir-meilleur.digital/mali-mutinerie-ou-coup-d-etat/\">arrêté avec son ministre ce mardi 18 Août 2020</a> a annoncé sa décision à la télévision nationale de “<em>quitter toutes ses fonctions</em>”.</p>\n\n"",	
+	},
+	
+		{
+		"slug":"petit-cours-d-histoire-panafricaine-leçon-numéro-21-traitre-à-l-afrique",
+		"url":"http://localhost:4000/lenny-mbunga-histoire-panafrique-lecon-21/",
+		"title":"Petit cours d'histoire Panafricaine Leçon numéro 21: Traitre à l'Afrique.",
+		"date":"2020-08-19 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "19",
+			"month" : "August",
+			"year"  : "2020",
+			"complete"  : "August, 19 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "19",
+			"month" : "Août",
+			"year"  : "2020",
+			"complete"  : "19 Août 2020"
+		 },
+		"categories":["Contenu Sociaux & Médias"],
+		"excerpt":""<p>Lenny M’Bunga, humoriste français, d’origine congolaise se définit comme un humoriste panafricain.  Dans ses sketchs, ses chroniques, ses interviews et ses spectacles, il s’attelle à véhiculer un message d’ouverture d’esprit, de remise en cause des codes utilisés pour diviser et stigmatiser la communauté noire.</p>\n\n"",	
+	},
+	
+		{
+		"slug":"kémi-seba-afrique-la-maladie-des-mandats-illimités-afro-pertinent",
+		"url":"http://localhost:4000/kemi-seba-afropertinent-maladie-mandats-illimites/",
+		"title":"Kémi SEBA : Afrique, La maladie des mandats illimités (AFRO PERTINENT).",
+		"date":"2020-08-19 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "19",
+			"month" : "August",
+			"year"  : "2020",
+			"complete"  : "August, 19 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "19",
+			"month" : "Août",
+			"year"  : "2020",
+			"complete"  : "19 Août 2020"
+		 },
+		"categories":["Contenu Sociaux & Médias"],
+		"excerpt":""<p>Kémi SEBA est un activiste panafricain connu pour avoir remis sur la place publique le débat sur le Franc CFA. Il est également chroniqueur géopolitique sur la chaîne <a href=\"https://voxafrica.com/\">VoxAfrica</a>. Dans l’émission Afro Pertinent qu’il produit et dans lequel il est également chroniqueur et intervenant il décrypte l’actualité du continent africain, les thématiques et les défis actuels.</p>\n\n"",	
+	},
+	
+		{
+		"slug":"situation-au-mali-coup-d-etat-ou-simple-mutinerie",
+		"url":"http://localhost:4000/mali-mutinerie-ou-coup-d-etat/",
+		"title":"Situation au Mali : coup d'Etat ou simple mutinerie ?",
+		"date":"2020-08-18 00:00:00 +0000",
+		"date_fr"     : {
+			"day"   : "18",
+			"month" : "August",
+			"year"  : "2020",
+			"complete"  : "August, 18 2020"
+		 },
+		 "date_en"     : {
+			"day"   : "18",
+			"month" : "Août",
+			"year"  : "2020",
+			"complete"  : "18 Août 2020"
+		 },
+		"categories":["Politique"],
+		"excerpt":""<p>Tout a commencé tôt ce mardi 18 août 2020 dans le camp militaire de Kati à 15 Km de Bamako. Des coups de feu sont entendus et on commence à évoquer une mutinerie. Le gouvernement à travers un communiqué a d’abord indiqué qu’il y avait effectivement des problèmes dans deux camps militaires et proposait une médiation pour trouver une solution. L’administration malienne a été à l’arrêt toute la journée. Les banques, les marchés et les espaces publics étaient fermés également.</p>\n\n"",	
+	}
+	
+	]
+}
