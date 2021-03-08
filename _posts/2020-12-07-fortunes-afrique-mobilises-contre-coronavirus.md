@@ -4,7 +4,7 @@ author: elisis
 title:  Les grandes fortunes africaines se mobilisent contre le coronavirus.
 categories: [ Sante, Brève ]
 image: assets/sante/fortunes-afrique-mobilises-contre-coronavirus.jpg
-tags: [sticky, coronavirus, afrique, sante, riposte, featured]
+tags: [coronavirus, afrique, sante, riposte, featured]
 ---
 
 ## Des milliardaires nigérians, sud-africains ou encore marocains investissent dans la riposte contre le coronavirus.

@@ -4,7 +4,7 @@ author: elisis
 title:  Thomas Ngijol, militantisme discret et permanent.
 categories: [ Culture, Champion, Biographie ]
 image: assets/culture/thomas-ngijol-all-black.jpg
-tags: [cameroun, humour, champion, thomas ngijol, afrique, panafricanisme, biographie, sticky, featured]
+tags: [cameroun, humour, champion, thomas ngijol, afrique, panafricanisme, biographie, featured]
 ---
 
 
