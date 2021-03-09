@@ -151,7 +151,7 @@ Espérons que le programme COVAX⑤ permettra à l'Afrique de s'approvisionner s
 # Epilogue
 En prenant en compte toutes ces données, la riposte africaine au coronavirus, ne doit pas être une copie des mesures prises en occident car les réalités géographiques, économiques, technologiques et sanitaires ne sont pas les mêmes. L'année 2020 sera la première année de récession sur le continent depuis 25 ans. La jeunesse du continent est en désarroi, bloqué entre le chômage et la fermeture des établissements & universités académiques.
 
-Des solutions adaptées doivent donc être trouvées, et l'Afrique doit changer de paradigme de développement ; au risque de plonger nos sociétés dans des violences sans précédents né du ras-le-bol général de la population. Des violences comme [celles survenues au Sénégal](https://twitter.com/hashtag/FreeSenegal) et qui comme toujours endeuille uniquement la populace.
+Des solutions adaptées doivent donc être trouvées, et l'Afrique doit changer de paradigme de développement ; au risque de plonger nos sociétés dans des violences sans précédents né du ras-le-bol général de la population. Des violences comme [celles survenues au Sénégal](https://www.freesenegal.news/) et qui comme toujours endeuille uniquement la populace.
 
 
 # Notes.
