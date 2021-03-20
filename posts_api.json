@@ -29,7 +29,7 @@ permalink: /api/
 		"url":"{{site.baseurl}}{{post.url}}",
 		"media":"NOIRMEILLEUR_ACTU",
 		"title":"{{post.title}}",
-		"featured":{%if post.featured == nil %}false{% else %}{{post.featured}},
+		"featured":{%if post.featured == nil || post.featured == '' %}false{% else %}{{post.featured}}{% endif %},
 		"date":"{{post.date}}",
 		"image":"{{ site.baseurl }}/{{post.image}}",
 		"author":{{site.authors[post.author] | jsonify}},
