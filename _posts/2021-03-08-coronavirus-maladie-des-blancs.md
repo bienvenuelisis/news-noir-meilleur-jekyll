@@ -5,6 +5,7 @@ title:  Coronavirus, 'la maladie des blancs'.
 categories: [ Sante ]
 image: assets/sante/covid-stats/CasesPerContinents.png
 tags: [coronavirus, afrique, sante, featured, sticky]
+featured: true
 ---
 
 

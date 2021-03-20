@@ -4,6 +4,7 @@ author: elisis
 title:  ECO, la machine médiatique française se met en marche.
 categories: [ Economie ]
 image: assets/economie/france-info-eco.png
+featured: true
 tags: [france, eco, francafrique, afrique, panafricanisme, sticky, featured]
 ---
 

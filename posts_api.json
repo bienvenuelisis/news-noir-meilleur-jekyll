@@ -29,6 +29,7 @@ permalink: /api/
 		"url":"{{site.baseurl}}{{post.url}}",
 		"media":"NOIRMEILLEUR_ACTU",
 		"title":"{{post.title}}",
+		"featured":{{post.featured}},
 		"date":"{{post.date}}",
 		"image":"{{ site.baseurl }}/{{post.image}}",
 		"author":{{site.authors[post.author] | jsonify}},
