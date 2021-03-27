@@ -26,9 +26,7 @@ Le 11 mars 2020, le Coronavirus est officiellement recensé comme une pandémie 
 
   
 
-<video  controls  width="100%"  height="350px">
-
-<source  src="/assets/sante/covid-stats/Coronavirus_Propagation_Monde.mp4"
+<video src="https://news.noirmeilleur.com/assets/sante/covid-stats/Coronavirus_Propagation_Monde.mp4" controls  width="100%"  height="350px">
 
 type="video/mp4">
 
