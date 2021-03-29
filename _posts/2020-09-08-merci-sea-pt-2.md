@@ -60,5 +60,5 @@ La saison suivante sera dans la continuité de celle qui venait de s'écouler. A
 
 En 2008, avec l'arrivée des Emiratis à la tête de City, un nouveau projet plus ambitieux est redéfini. Les Citizens souhaitent reconquérir la couronne de roi d'Angleterre et vont ainsi tout mettre en oeuvre pour recruter les meilleurs joueurs de l'époque.
 
-La suite [au prochain chapitre.](/tags.html#sea)
+La suite [au prochain chapitre.](news.noirmeilleur.com/tags.html#sea)
 

@@ -61,6 +61,6 @@ Même si à la fin de la saison, le club madrilène décidera de ne pas lever l'
 
 # Tottenham, nouveau challenge.
 
-La suite [au prochain chapitre.](/tags.html#sea)
+La suite [au prochain chapitre.](news.noirmeilleur.com/tags.html#sea)
 
 

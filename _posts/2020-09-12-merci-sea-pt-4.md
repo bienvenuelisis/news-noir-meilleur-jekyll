@@ -105,5 +105,5 @@ Et en Equipe nationale cette performance de haut volée contre l'Algérie :
 
 Ainsi s'achève cette biographie du plus grand footballeur togolais de tous les temps.
 
-Suivez [les autres biographies de champions ici](/tags.html#champion).
+Suivez [les autres biographies de champions ici](news.noirmeilleur.com/tags.html#champion).
 

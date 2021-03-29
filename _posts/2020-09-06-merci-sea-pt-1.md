@@ -53,5 +53,5 @@ Il passera en tout deux saisons à Monaco, avant de se laisser tenter par les si
 
 # Arsenal, la confirmation.
 
-La suite [au prochain chapitre.](/tags.html#sea)
+La suite [au prochain chapitre.](news.noirmeilleur.com/tags.html#sea)
 
