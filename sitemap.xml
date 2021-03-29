@@ -1,31 +1,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://news.noir-meilleur.digital/</loc>
+        <loc>https://news.noirmeilleur.com/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://news.noir-meilleur.digital/about</loc>
+        <loc>https://news.noirmeilleur.com/about</loc>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://news.noir-meilleur.digital/support</loc>
+        <loc>https://news.noirmeilleur.com/support</loc>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://news.noir-meilleur.digital/categories</loc>
+        <loc>https://news.noirmeilleur.com/categories</loc>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://news.noir-meilleur.digital/tags</loc>
+        <loc>https://news.noirmeilleur.com/tags</loc>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://news.noir-meilleur.digital/utip</loc>
+        <loc>https://news.noirmeilleur.com/utip</loc>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>

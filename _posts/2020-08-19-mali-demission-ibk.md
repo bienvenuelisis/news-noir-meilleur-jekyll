@@ -8,7 +8,7 @@ tags: [Afrique, Mali, IBK, Coup d'Etat, Mutinerie, 18 Août]
 ---
 
 
-Le président Malien Ibrahim Boubacar Keita, [arrêté avec son ministre ce mardi 18 Août 2020](https://news.noir-meilleur.digital/mali-mutinerie-ou-coup-d-etat/) a annoncé sa décision à la télévision nationale de "*quitter toutes ses fonctions*". 
+Le président Malien Ibrahim Boubacar Keita, [arrêté avec son ministre ce mardi 18 Août 2020](https://news.noirmeilleur.com/mali-mutinerie-ou-coup-d-etat/) a annoncé sa décision à la télévision nationale de "*quitter toutes ses fonctions*". 
 
 
 # Démission d'IBK :
