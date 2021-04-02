@@ -1,8 +1,8 @@
 # Site
 name: 'News Noir Meilleur'
 description: "Toute l'actualité de l'Afrique et de sa diaspora."
-logo: 'assets/icons/icon.png'
-favicon: 'assets/icons/icon.png'
+logo: 'assets/favicons/logo.png'
+favicon: 'assets/favicons/logo.png'
 #baseurl: ''
 baseurl: 'https://news.noirmeilleur.com'
 disqus: 'news-noir-meilleur'
