@@ -30,6 +30,7 @@ permalink: /api/
 		"media":"NOIRMEILLEUR_ACTU",
 		"title":"{{post.title}}",
 		"featured":{%if post.featured == nil || post.featured == '' %}false{% else %}{{post.featured}}{% endif %},
+		"premium":{%if post.premium == nil || post.premium == '' %}false{% else %}{{post.premium}}{% endif %},
 		"date":"{{post.date}}",
 		"image":"{{ site.baseurl }}/{{post.image}}",
 		"author":{{site.authors[post.author] | jsonify}},
