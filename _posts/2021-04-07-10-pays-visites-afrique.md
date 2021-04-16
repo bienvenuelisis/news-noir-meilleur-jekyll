@@ -9,6 +9,9 @@ featured: true
 premium: true
 ---
 
+
+# Prologue
+
 2020 et 2021, dure période. Pour les noirs dans le monde, pour les pays émergents.
 Le racisme s'est décomplexé, les conflits armés en Afrique se sont multipliés, la démocratie a reculé,  la pauvreté a gagné
 encore plus de terrain. 
@@ -47,7 +50,7 @@ Ce paysage transformé en parc national est constitué de massifs en calcaire fo
 
 ### Le volcan Dallol dans le désert Danakil en Ethiopie.
 
-C'est un site géologique unique en son genre, un des endroits les plus incroyables et hostiles sur terre. Le volcan est caché sous une couche de sel épaisse, à plus de 100 mètres en dessous du niveau de la mer. Sa dernière éruption s'est produite en 1926. C'est l'une des régions les plus chauds de la planète (plus de 50 degrés).  Le lac est formé d'une forte concentration de minéraux comme le soufre et l'oxyde de fer. 
+C'est un site géologique unique en son genre, un des endroits les plus incroyables et hostiles sur terre. Le volcan est caché sous une couche de sel épaisse, à plus de 100 mètres en dessous du niveau de la mer. Sa dernière éruption s'est produite en 1926. C'est l'une des régions les plus chaudes de la planète (plus de 50 degrés).  Le lac est formé d'une forte concentration de minéraux comme le soufre et l'oxyde de fer. 
 
 ![Lac - Volcan Daroll](https://news.noirmeilleur.com/assets/decouverte/desert-darrol-lac.webp)
 
@@ -55,7 +58,7 @@ C'est un site géologique unique en son genre, un des endroits les plus incroyab
 
 ## 3. Kenya.
 
-### a. Parc aquatique Watamu et les plages de Mombassa.
+### a. Parc aquatique Watamu.
 
 La faune marine du parc Watamu au Kenya est l’une des plus diversifiées au monde. Vous pouvez y pratiquer de la plongée et visiter l’univers marin. 
 
@@ -66,7 +69,7 @@ La faune marine du parc Watamu au Kenya est l’une des plus diversifiées au mo
 
 ### b. La ville portuaire de Mombassa
 
-Vous pourrez continuer le périple, toujours au Kenya, pour découvrir la ville portuaire de Mombassa. Cette ville, bordée de plages aux eaux transparentes et aux palmiers offre un pays paradisiaque.
+Vous pourrez continuer le périple, toujours au Kenya, pour découvrir la ville portuaire de Mombassa. Cette ville, bordée de plages aux eaux transparentes et aux palmiers offre un paysage paradisiaque.
 
 ![Mombassa Plage](https://news.noirmeilleur.com/assets/decouverte/plage-mondassa-vue-aerienne.jpg)
 
@@ -93,7 +96,7 @@ Edifiée en 1907, la grande mosquée de Djenné est le plus grand bâtiment du m
 
 ## 6. Tanzanie.
 
-### Zanzibar.
+### a. Zanzibar.
 
 Archipel tanzanien, possédant un nombre incalculable de plages paradisiaques, Zanzibar est l'un des îles les plus magnifiques du continent. Sur une de ces plages, un magnifique restaurant trône en plein milieu de l’eau. 
 
@@ -102,6 +105,29 @@ Archipel tanzanien, possédant un nombre incalculable de plages paradisiaques, Z
 ![Zanzibar Plage](https://news.noirmeilleur.com/assets/decouverte/zanzibar-plage.jpg)
 
 ![Zanzibar Hôtel](https://news.noirmeilleur.com/assets/decouverte/zanzibar-hotel.jpg)
+
+### b. Le cratère Ngorongoro.
+Il s'est formé à la suite de l'effondrement d'un volcan sur lui-même, après d'une éruption il y a deux millions d'années. Situé au Nord de la Tanzanie, il jouxte le Parc de Serengueti et tout autour du cratère, s'est formée une importante réserve faunique.
+
+![Cratère Ngorongoro rempli](https://news.noirmeilleur.com/assets/decouverte/cratere-ngorongono.webp)
+
+![Cratère Ngorongoro & Faune](https://news.noirmeilleur.com/assets/decouverte/cratere-ngorongono-et-faune.webp)
+
+
+### c. Lac Natron.
+
+![Lac Natron](https://news.noirmeilleur.com/assets/decouverte/lac-natron.webp)
+
+Le Lac Natron est un lac salé situé dans une vallée au nord de la Tanzanie. It tire son nom du minerais qui se trouve en grande quantité dans ses eaux : *le natron*. 
+
+![Lac Natron : vue de haut.](https://news.noirmeilleur.com/assets/decouverte/lac-natron-vue-de-haut.webp)
+
+![Lac Natron : vue d'un côté.](https://news.noirmeilleur.com/assets/decouverte/lac-natron-vue-angle.webp)
+
+Bien que le paysage soit époustouflant, cet environnement est hostile à tout être vivant. On voit d'ailleurs des oiseaux figés comme de la pierre aux alentours.
+
+![Lac Natron : oiseaux figés.](https://news.noirmeilleur.com/assets/decouverte/lac-natron-oiseaux-figes.webp)
+
 
 ## 7. Namibie.
 
@@ -115,7 +141,7 @@ Le Parc National Etosha (le grand espace blanc), a gardé jalousement toute sa f
 
 ![Lions : Parc Etosha](https://news.noirmeilleur.com/assets/decouverte/etosha-lion.webp)
 
-![Faune : Parc Etosha](https://news.noirmeilleur.com/assets/assets/decouverte/faune-etosha.webp)
+![Faune : Parc Etosha](https://news.noirmeilleur.com/assets/decouverte/faune-etosha.webp)
 
 ### b. Les dunes de Sossusvlei en Namibie.
 
@@ -143,54 +169,32 @@ Autres paysages qui pourraient finir de vous convaincre de visiter la Namibie.
 
 ## 8. Rwanda.
 
-Rwanda *pays des mille collines*, offrent une nature merveilleuse et capricieuse. Son relief accidenté en fait l’un des plus beaux paysages d’Afrique.
+Rwanda, *pays des mille collines*, offrent une nature merveilleuse et capricieuse. Son relief accidenté en fait l’un des plus beaux paysages d’Afrique.
 
 ### Parc National Nyungwe.
 Le parc National Nyungwe est un condensé de cette richesse géographique.
 
-![Faune : Parc National Nyungwe.](https://news.noirmeilleur.com/assets/decouverte/singe-parc-national-Nyungwe.jpg)
-
 ![Paysage : Parc National Nyungwe.](https://news.noirmeilleur.com/assets/decouverte/parc-Nyungwe-paysage.jpg)
 
 
-## 9. Îles Maurice.
+## 9. Île Maurice.
 
-### a. La cascade sous-marine de l’Île Maurice
+Invisible sur les cartes à grande échelle de l'Afrique, L'île Maurice dispose pourtant des meilleurs sites touristiques du continent. Unique pays du continent dont la population est à majorité hindoue, l'ïle Maurice consacre une part importante de ses ressources au tourisme, pourvoyeur de près de 15 % des emplois du Pays.
+
+### La cascade sous-marine de l’Île Maurice.
 
 ![La cascade sous-marine de l’Île Maurice](https://news.noirmeilleur.com/assets/decouverte/cascade-sous-marine-iles-maurice.webp)
 
-A première vu on dirait une chute d'eau. Ceci est en fait **une chute de sable allant jusqu'à plus de 4000 mètres** de profondeur, entraîné vers de sombres profondeurs par les courants océaniques. L'île Maurice a été créée il y a environ 8 millions d'années par des éruptions volcaniques.  Un paysage à réellement couper le souffle.
+A première vu on dirait une chute d'eau. Ceci est en fait **une chute de sable allant jusqu'à plus de 4000 mètres** de profondeur. L'île Maurice a été créée il y a environ 8 millions d'années par des éruptions volcaniques.  Un paysage à réellement couper le souffle.
 
 ![Cascade sous-marine Île Maurice](https://news.noirmeilleur.com/assets/decouverte/cascade-sous-marine-iles-maurice-vue-angle.webp)
 
 ![Cascade sous-marine Île Maurice](https://news.noirmeilleur.com/assets/decouverte/cascade-sous-marine-iles-maurice-vue-depression.webp)
 
 
-### b. Le cratère Ngorongoro.
-Il s'est formé à la suite de l'effondrement d'un volcan sur lui-même, à la suite d'une éruption il y a deux millions d'années. Situé au Nord de la Tanzanie, il jouxte le Parc de Serengueti et tout autour du cratère, s'est formée une importante réserve faunique.
-
-![Cratère Ngorongoro rempli](https://news.noirmeilleur.com/assets/decouverte/cratere-ngorongono.webp)
-
-![Cratère Ngorongoro & Faune](https://news.noirmeilleur.com/assets/decouverte/cratere-ngorongono-et-faune.webp)
-
-
-### c. Lac Natron.
-
-![Lac Natron](https://news.noirmeilleur.com/assets/decouverte/lac-natron.webp)
-
-Le Lac Natron est un lac salé situé dans une vallée au nord de la Tanzanie. It tire son nom du minerais qui se trouve en grande quantité dans ses eaux : *le natron*. 
-
-![Lac Natron : vue de haut.](https://news.noirmeilleur.com/assets/decouverte/lac-natron-vue-de-haut.webp)
-
-![Lac Natron : vue d'un côté.](https://news.noirmeilleur.com/assets/decouverte/lac-natron-vue-angle.webp)
-
-Bien que le paysage soit époustouflant, cet environnement est hostile à tout être vivant. On voit d'ailleurs des oiseaux figés comme de la pierre aux alentours.
-
-![Lac Natron : oiseaux figés.](https://news.noirmeilleur.com/assets/decouverte/lac-natron-oiseaux-figes.webp)
-
 ## 10. Senegal.
 
-*Le pays de la Teranga* (hospitalité),  est l"une des meilleurs destinations touristiques en Afrique de l’Ouest. Entre mer et désert, lrichesses naturelles et l’effervescence culturelle, le Sénégal offre différents sites. 
+*Le pays de la Teranga* (hospitalité),  est l'une des meilleurs destinations touristiques en Afrique de l’Ouest. Entre mer et désert, richesses naturelles et l’effervescence culturelle, le Sénégal offre différents sites. 
 
 ### a. Le Lac Retba.
 
@@ -203,8 +207,7 @@ Sa couleur rose, est due à la présence d'un micro organisme qui développe un 
 
 ![Lac Rose & Couleur vue d'en haut.](https://news.noirmeilleur.com/assets/decouverte/lac-rose-prise-couleur-haut.webp)
 
-Terminons, ce tour d'Afrique par un lieu un peu moins paradisiaque ; c'était à l'inverse l'enfer de nos aîeux. 
-
+Terminons, ce tour d'Afrique par un lieu loin d'être paradisiaque, qui était à l'inverse, l'enfer de nos aîeux. 
 
 ### b. L’île de Gorée.
 
@@ -212,19 +215,19 @@ Terminons, ce tour d'Afrique par un lieu un peu moins paradisiaque ; c'était à
 
 De par sa situation géographique (point le plus à l’Ouest en Afrique) l’île de Gorée fût utilisée comme escale, maison et marché des esclaves pendant quatre cent ans. C'était le dernier escale en Afrique, avant la longue et périlleuse traversée de l'Atlantique. A ce titre tout Africain, qui en a les moyens, devrait au moins une fois visiter ce lieu hautement symbolique et chargé d'histoire.
 
-*** Maison des esclaves ***
-
-![Gorée : sculptures devant la maison des esclaves.](https://news.noirmeilleur.com/assets/decouverte/goree-maison-esclaves-sculptures.jpg)
-
-Juste en face de la maison des esclaves, des sculptures ont été réalisé, pour honorer la mémoire des africains mis en esclavage. 
+***Maison des esclaves***
 
 ![Gorée : sculptures devant la maison des esclaves.](https://news.noirmeilleur.com/assets/decouverte/goree-maison-des-esclaves-escaliers.webp)
 
-*** Couloir de la mort ***
+Juste en face de la maison des esclaves, des sculptures ont été réalisées, pour honorer la mémoire des africains mis en esclavage. 
+
+![Gorée : sculptures devant la maison des esclaves.](https://news.noirmeilleur.com/assets/decouverte/goree-maison-esclaves-sculptures.jpg)
+
+***Couloir de la mort***
 
 ![Gorée : couloir de la mort.](https://news.noirmeilleur.com/assets/decouverte/goree-couloir-de-la-mort.webp)
 
-Tout Africain mis en esclavage puis déporté sur cette île, qui passait par ce tunnel, ne revenait plus. Il ne devait plus sa survie qu'à sa robustesse dans les bateaux de la mort.
+Tout Africain mis en esclavage puis déporté sur cette île, qui passait par ce tunnel, ne revenait plus. La majorité des déportés mourraient dans le bateau, avant d'atteindre le nouveau monde.
 
 ![Gorée : geôle de détention inhumaine.](https://news.noirmeilleur.com/assets/decouverte/goree-geole-detention.webp)
 
@@ -237,7 +240,7 @@ Gorée vous fera tout de même oublier quelques instants, l'épouvante de l'horr
 ![Gorée : paysages.](https://news.noirmeilleur.com/assets/decouverte/goree-paysages.webp)
 
 
-*** Allées de la ville de Gorée ***
+***Allées de la ville de Gorée***
 
 ![Gorée : allées de la ville.](https://news.noirmeilleur.com/assets/decouverte/goree-allees.webp)
 
@@ -245,7 +248,7 @@ Toute l'architecture de cette époque a été conservée au maximum. Visiter Gor
 
 ![Gorée : baobab & architecture ancienne.](https://news.noirmeilleur.com/assets/decouverte/goree-ville-baobab.webp)
 
-![Gorée : mosquée.](https://news.noirmeilleur.com/assets/decouverte/goree-mosquee.jpg.webp)
+![Gorée : mosquée.](https://news.noirmeilleur.com/assets/decouverte/goree-mosquee.jpg)
 
 
 
@@ -254,3 +257,6 @@ Toute l'architecture de cette époque a été conservée au maximum. Visiter Gor
 Il existe bien évidemment il existe plusieurs autres lieux à visiter sur le continent. Pas loin de chez vous, ou en prenant la route vous pourriez découvrir, une petite portion de terre et de forêt où l'humain n'a pas encore entamé son action spoliatrice et dévastateur de la nature.
 
 Alors, si vous aviez la possibilité de découvrir trois de ces destinations lors de vos prochaines vacances, lesquelles choisiriez vous ?
+
+
+
