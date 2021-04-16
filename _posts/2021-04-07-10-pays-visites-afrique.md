@@ -10,11 +10,11 @@ premium: true
 ---
 
 
-# Prologue
-
 2020 et 2021, dure période. Pour les noirs dans le monde, pour les pays émergents.
 Le racisme s'est décomplexé, les conflits armés en Afrique se sont multipliés, la démocratie a reculé,  la pauvreté a gagné
 encore plus de terrain. 
+
+# Prologue
 
 Partout des mauvaises nouvelles. Il ne servait à rien d'y ajouter son grain de sable. Du coup beaucoup de réflexions et le besoin impératif de communiquer de la positivité.
 
