@@ -251,6 +251,7 @@ Toute l'architecture de cette époque a été conservée au maximum. Visiter Gor
 ![Gorée : mosquée.](https://news.noirmeilleur.com/assets/decouverte/goree-mosquee.jpg)
 
 
+Pour continuer à découvrir le Sénégal, à travers ces habitants, [suivez ce magnifique documentaire (Motherland 1)](https://www.youtube.com/watch?v=Lg0QksfmOto), réalisé par [Crazy Sally](https://www.instagram.com/itscrazysally/).
 
 # Fin du voyage.
 
