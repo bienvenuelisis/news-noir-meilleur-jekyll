@@ -49,7 +49,7 @@ Suite à la blessure de Gonzalo Higuain, la doublure au poste d'attaquant de poi
 
 En froid avec le club mancunien (Manchester City) et en manque de temps de jeu, Adébayor cherche un point de chute pour reprendre sa carrière en main. Ainsi, bien que très courtisé par son ancien club Monaco, qui souhaite ardemment son retour, Adébayor se laissera tenter par l'aventure et la proposition du club madrilène. Il rejoint donc le Real Madrid, le 25 Janvier 2011 sous la forme d'un prêt avec une option d'achat estimé à 15 millions d'euros. 
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/BCTyFSa8ugA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Real Madrid : Tranfert d'Emmanuel Adébayor.](https://www.youtube.com/watch?v=BCTyFSa8ugA)
 
 Conscient de son rôle de remplaçant de luxe de Karim Benzema le titulaire indiscutable, SEA s'évertuera à tout faire pour se faire remarquer positivement aussi bien sur qu'en dehors du terrain.
 
@@ -57,7 +57,7 @@ Rapidement adopté par ses coéquipiers et le public, Adébayor disputera en tou
 
 Même si à la fin de la saison, le club madrilène décidera de ne pas lever l'option d'achat, Adébayor laissera une empreinte positive au Real tant par ses performances sur le terrain, que par son attitude en dehors. Il ambiancera le vestiaire madrilène de ses pas de dance légendaires.
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/7qsLY44AQu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Pepe, Ramos & Adebayor : danse dans le vestiaire après une victoire contre le Barça.](https://youtu.be/7qsLY44AQu0?t=231)
 
 # Tottenham, nouveau challenge.
 

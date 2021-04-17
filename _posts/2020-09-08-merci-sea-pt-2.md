@@ -39,7 +39,7 @@ En Premiere League, il sera longtemps au coude à coude avec Cristiano Ronaldo, 
 
 Au summum de sa forme, il marquera 10 buts sur sept (7) matchs consécutifs. Cela lui vaudra un mini-reportage dans TéléFoot.
 
-<iframe class="only-pc" width="853" height="480" src="https://www.youtube.com/embed/pzvdsJf_88U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Souviens-toi : Emmanuel Adebayor le Gunner (2012)](https://www.youtube.com/watch?v=pzvdsJf_88U)
 
 Il inscrira un florilège de buts fantastiques et importants durant cette année. Arsenal ne remportera pas la league cette année (3ème), mais ils se contenteront de la Coupe de Ligue. 
 

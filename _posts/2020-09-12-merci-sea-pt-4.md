@@ -45,8 +45,7 @@ En tout Emmanuel Adébayor avait inscrit à ce moment de sa carrière 177 buts :
 * 8 buts au Real Madrid ;
 * 42 buts à Tottenham.
 
-Une petite compilation de ces meilleurs buts dans les plus grands championnats.
-<iframe width="853" height="480" src="https://www.youtube.com/embed/x64r-1IgSNY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Une petite compilation de ces meilleurs buts dans les plus grands championnats.](https://www.youtube.com/watch?v=x64r-1IgSNY)
 
 # Fin de carrière en club.
 
@@ -69,7 +68,7 @@ S'en suivront près de vingt années au service de son pays, duquel il deviendra
 
 L'épopée de la CAN 2013, restera malgré tout la plus mémorable ou il a conduit son équipe pour la première fois vers la phase finale (Quarts de finale) de la compétition continentale.
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/e7m0fA65Acw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Epopée du Togo, à la CAN 2013.](https://www.youtube.com/watch?v=e7m0fA65Acw)
 
 Il sera également un élément majeur de cette année 2006 où le Togo se qualifiera pour la première fois de son histoire, à la coupe du monde.
 
@@ -85,23 +84,22 @@ Adébayor, au delà du sportif est également un personnage hors-norme qui a tou
 
 ## Arsenal
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/XhnRt48L2CA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Adébayor et ses célébrations mythiques sous le maillot des Gunners.](https://www.youtube.com/watch?v=XhnRt48L2CA)
 
 ## Tottenham
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/5RW1qIKr4SU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Adébayor & Gareth Bale, après un but.](https://www.youtube.com/watch?v=5RW1qIKr4SU)
 
 
 # Merci champion, pout tout.
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/D5iyHFFYuZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Adébayor : Meilleurs buts & Dribbles.](https://www.youtube.com/watch?v=D5iyHFFYuZk)
 
 S'il ne fallait retenir qu'un seul match en club, cette maestro face à Chelsea :
-<iframe width="853" height="480" src="https://www.youtube.com/embed/64n3CEzyLCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Adébayor VS Chelsea.](https://www.youtube.com/watch?v=64n3CEzyLCA)
 
 Et en Equipe nationale cette performance de haut volée contre l'Algérie : 
-
-<iframe width="853" height="480" src="https://www.youtube.com/embed/RuhInQ74Yjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Algérie - Togo | CAN 2013](https://www.youtube.com/watch?v=RuhInQ74Yjw)
 
 Ainsi s'achève cette biographie du plus grand footballeur togolais de tous les temps.
 

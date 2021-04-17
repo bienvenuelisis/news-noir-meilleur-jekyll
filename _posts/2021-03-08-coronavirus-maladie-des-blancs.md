@@ -6,6 +6,7 @@ categories: [ Sante ]
 image: assets/sante/covid-stats/CasesPerContinents.png
 tags: [coronavirus, afrique, sante, featured, sticky]
 featured: true
+premium: true
 ---
 
 
@@ -232,15 +233,7 @@ Le facteur génétique permet donc d'expliquer la fréquence élevée de formes 
 
 Tous ces facteurs mis bout à bout, explique la très difficile pénétration de l'infection en Afrique. Parce que concrètement tout était réuni en Afrique pour assister à une catastrophe comme c'est le cas dans certains pays d'Amérique du Sud comme le Mexique ou l'Equateur.
 
-  
-
-<iframe  width="100%"  height="480"  src="https://www.youtube.com/embed/h5LW-tkJt_Y"  frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen></iframe>
-
-  
-
-*Coronavirus: En Equateur, les morts jonchent les rues de la ville de Guayaquil*
-
-  
+[Coronavirus: En Equateur, les morts jonchent les rues de la ville de Guayaquil](https://www.youtube.com/watch?v=h5LW-tkJt_Y)  
 
 Est ce donc surprenant que le pays d'Afrique le plus touché soit l'Afrique du Sud, *la société la plus occidentalisée du continent*③ ?
 
