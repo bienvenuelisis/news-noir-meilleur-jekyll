@@ -7,6 +7,9 @@ favicon: 'assets/favicons/logo.png'
 baseurl: 'https://news.noirmeilleur.com'
 disqus: 'news-noir-meilleur'
 email: 'elisis.author@gmail.com'
+downloadapp: 'https://apps.noirmeilleur.com/#download'
+playstore: 'https://play.google.com/store/apps/details?id=com.noirmeilleur.android'
+appstore: '#'
 
 include: ["_pages"]
 permalink: /:title/
