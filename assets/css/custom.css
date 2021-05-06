@@ -1,4 +1,13 @@
+.ads-mob {}
 
-.ads-mob {
+@media (min-width: 768px) {
+    .banner-app {
+        padding-top: 24px;
+    }
+}
 
+@media (max-width: 767px) {
+    .banner-app {
+        padding-top: 45px;
+    }
 }
