@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
 
     {% include tracking-header.html %}
@@ -9,12 +10,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{{page.title}} | {{site.name}}</title>
 
-    {% include icons.html %}
-
-    {% include seo.html %}
+    {% include icons.html %} {% include seo.html %}
     <!-- Font Awesome Icons -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
-          integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
     <!-- Google Fonts-->
     <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700" rel="stylesheet">
@@ -28,87 +26,75 @@
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css">
 
     <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
-            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-            crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 
 </head>
 
-<body class="{% if page.url == "/" %} homefirstpage {% endif %}">
+<body class="{% if page.url == " / " %} homefirstpage {% endif %}">
 
-{% include google-manager-noscript.html %}
+    {% include google-manager-noscript.html %}
 
-<!-- Navbar -->
-<nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
-    <div class="container">
-        <a class="navbar-brand" href="{{ site.baseurl }}/"><strong>{{site.name}}</strong></a>
-        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02"
-                aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+    <!-- Navbar -->
+    <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="{{ site.baseurl }}/"><strong>{{site.name}}</strong></a>
+            <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="navbar-collapse collapse" id="navbarColor02" style="">
-            <ul class="navbar-nav mr-auto d-flex align-items-center">
-                {% include menu-header.html %}
-            </ul>
-            <ul class="navbar-nav ml-auto d-flex align-items-center">
-                {% include search-lunr.html %}
-            </ul>
+            <div class="navbar-collapse collapse" id="navbarColor02" style="">
+                <ul class="navbar-nav mr-auto d-flex align-items-center">
+                    {% include menu-header.html %}
+                </ul>
+                <ul class="navbar-nav ml-auto d-flex align-items-center">
+                    {% include search-lunr.html %}
+                </ul>
+            </div>
+
         </div>
+    </nav>
 
+    <!-- Search Results -->
+    <div id="lunrsearchresults">
+        <ul class="mb-0"></ul>
     </div>
-</nav>
 
-<!-- Search Results -->
-<div id="lunrsearchresults">
-    <ul class="mb-0"></ul>
-</div>
-
-<div class="container" style="padding-bottom: 15px; padding-top: 15px;">
-    <div hidden style="border-radius: 15px; background-color: #024b4b;">
-        <h5 style="color: white; justify-content: center; text-align: center; margin-bottom: -5px; padding-top: 9px;">
-            Installer notre
-            <a target="_blank" href="https://apps.noirmeilleur.com/#download">
+    <div class="container" style="padding-bottom: 15px; padding-top: 15px;">
+        <div style="border-radius: 15px; background-color: #024b4b;">
+            <h5 style="color: white; justify-content: center; text-align: center; margin-bottom: -5px; padding-top: 9px;">
+                Installer notre
+                <a target="_blank" href="https://apps.noirmeilleur.com/#download">
                 nouvel application mobile
-            </a>
-            pour continuer à lire nos articles, même sans connexion Internet !
-        </h5>
-        <br>
+            </a> pour continuer à lire nos articles, même sans connexion Internet !
+            </h5>
+            <br>
+        </div>
     </div>
-</div>
-<!-- Content -->
-<main role="main" class="site-content">
-    {{ content }}
-</main>
+    <!-- Content -->
+    <main role="main" class="site-content">
+        {{ content }}
+    </main>
 
 
-<!-- Scripts: popper, bootstrap, theme, lunr -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
-        integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
-        crossorigin="anonymous"></script>
+    <!-- Scripts: popper, bootstrap, theme, lunr -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
 
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
-        integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
-        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 
-<script src="{{site.baseurl}}/assets/js/theme.js"></script>
+    <script src="{{site.baseurl}}/assets/js/theme.js"></script>
 
-<script src="{{site.baseurl}}/assets/js/all.min.js"></script>
+    <script src="{{site.baseurl}}/assets/js/all.min.js"></script>
 
-<script src="{{site.baseurl}}/assets/js/amazon-ads.min.js"></script>
+    <script src="{{site.baseurl}}/assets/js/amazon-ads.min.js"></script>
 
-<!-- Footer -->
+    <!-- Footer -->
 
-{% include footer.html %}
+    {% include footer.html %} {% include tracking-footer.html %} {% include sumo-mailing-capture.html %}
 
-{% include tracking-footer.html %}
-
-{% include sumo-mailing-capture.html %}
-
-<script type="application/javascript">
-    $(document).ready(function () {
-        $('#article-content a').attr("target", "_blank");
-    })
-</script>
+    <script type="application/javascript">
+        $(document).ready(function() {
+            $('#article-content a').attr("target", "_blank");
+        })
+    </script>
 </body>
 
 </html>
