@@ -6,7 +6,7 @@ categories: [ Decouverte ]
 image: assets/decouverte/destination_paradis_afrique.jpg
 tags: [voyage, afrique, histoire, vacances, destinations, decouverte, featured, sticky]
 featured: true
-premium: true
+premium: false
 ---
 
 

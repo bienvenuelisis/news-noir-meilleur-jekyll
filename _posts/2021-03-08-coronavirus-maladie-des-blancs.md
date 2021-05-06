@@ -6,7 +6,7 @@ categories: [ Sante ]
 image: assets/sante/covid-stats/CasesPerContinents.png
 tags: [coronavirus, afrique, sante, featured, sticky]
 featured: true
-premium: true
+premium: false
 ---
 
 
