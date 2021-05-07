@@ -25,7 +25,7 @@ Même si plusieurs sportifs, chanteurs et personnalités influentes aux Etats-Un
      style="display:block"  
      data-ad-format="fluid"  
      data-ad-layout-key="-g3-z+20-iz+107"  
-     data-ad-client="ca-pub-3022200405839941"  
+     data-ad-client="ca-pub-4997176462744877"  
      data-ad-slot="6464473093"></ins>  
 <script>  
     (adsbygoogle = window.adsbygoogle || []).push({});  
