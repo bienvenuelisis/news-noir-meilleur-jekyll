@@ -82,13 +82,14 @@ Enumérons quelques phrases cultes du Prims Parolier :
 
 > Ils oublieront que je suis noir quand je leur signerai des chèques en blanc.
 
-> Je suis un éternel incompris donc seul l'éternel me comprend.
+> Je suis un éternel incompris donc seul l'éternel me comprendra.
 
 > Si tu peux lire le Coran, pourquoi est ce que tu lis le *Coran pour les nuls ?*
 
 > _L'idée reste de mourir jeune_ mais le _plus tard possible_.
 
-Découvrez le nouvel album de Youssoupha sur Spotify, tant lequel il rappel à tous les africains, qu'aucun rêve n'est impossible, avec de la patience et du travail.
+[Découvrez le nouvel album de Youssoupha sur Spotify](https://open.spotify.com/album/3Y8U9hoaYR9P5IF9D9ZmiM?si=ofNIUU8sQguVwPnjIzmsWg), dans lequel il rappel à tous les africains, qu'aucun rêve n'est impossible, avec de la patience et du travail.
 
 <iframe src="https://open.spotify.com/embed/album/3Y8U9hoaYR9P5IF9D9ZmiM" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 
