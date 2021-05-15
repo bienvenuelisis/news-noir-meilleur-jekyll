@@ -35,7 +35,7 @@ Originaire de Congo, pays meurtri par plusieurs conflits interminables, Youssoup
 
 Son engagement et son amour se sublime dans ce morceau magnifique, titré ***Grand Congo*** qui présente Denis Mukwege, le prix Nobel de la Paix congolais, qui est mondialement connu pour son action dans la réparation et l'accompagnement des victimes de crimes de guerre (***surtout le viol des femmes***).
 
-<audio controls>  
+<audio controls link="https://news.noirmeilleur.com/assets/culture/Youssoupha x Denis Mukwege - Grand Congo.mp3">  
 	<source src="https://news.noirmeilleur.com/assets/culture/Youssoupha x Denis Mukwege - Grand Congo.mp3"  type="audio/mpeg">  
 Votre média ne supporte pas les contenus audio.  
 </audio>
