@@ -3,4 +3,4 @@
 User-agent: *
 # Disallow: /ads
 
-Sitemap: https://news.noirmeilleur.com/sitemap.xml
+Sitemap: https://bienvenuelisis.github.io/news-noir-meilleur-jekyll/sitemap.xml

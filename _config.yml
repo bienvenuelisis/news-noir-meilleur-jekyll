@@ -4,7 +4,7 @@ description: "Toute l'actualité de l'Afrique et de sa diaspora."
 logo: 'assets/favicons/logo.png'
 favicon: 'assets/favicons/logo.png'
 #baseurl: ''
-baseurl: 'https://news.noirmeilleur.com'
+baseurl: 'https://bienvenuelisis.github.io/news-noir-meilleur-jekyll'
 disqus: 'news-noir-meilleur'
 email: 'elisis.author@gmail.com'
 downloadapp: 'https://apps.noirmeilleur.com/#download'

@@ -25,7 +25,7 @@ Naomi Osaka retrouvera, grâce à cette victoire, le 3ème rang mondial.
 
 # Refus de disputer la démi-finale du tournoi de Cincinnati
 
-[Après le boycott des matchs de NBA,  pour protester contre les violences policières](https://news.noirmeilleur.com/bucks-boycott-nba-justice-pour-jacob-blake/) spécialement celle subit par Jacob Blake, Naomi Osaka avait décidé d'en faire de même et de boycotter sa demi-finale au tournoi de Cincinnati qui s'est disputé sur les mêmes courts que l'US Open (ndlr : à cause de la pandémie du COViD).
+[Après le boycott des matchs de NBA,  pour protester contre les violences policières](https://bienvenuelisis.github.io/news-noir-meilleur-jekyll/bucks-boycott-nba-justice-pour-jacob-blake/) spécialement celle subit par Jacob Blake, Naomi Osaka avait décidé d'en faire de même et de boycotter sa demi-finale au tournoi de Cincinnati qui s'est disputé sur les mêmes courts que l'US Open (ndlr : à cause de la pandémie du COViD).
 
 Elle s'était justifié : 
 

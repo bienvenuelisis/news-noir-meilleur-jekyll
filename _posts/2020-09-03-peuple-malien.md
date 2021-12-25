@@ -8,7 +8,7 @@ tags: [mali, ibk, coup d'etat, peuple malien, cedeao]
 ---
 
 
-Depuis [le coup d'Etat au Mali](https://news.noirmeilleur.com/mali-demission-ibk/), ***il*** semble être le premier oublié de toutes les tractations externes et internes qui nagent à contre courant pour essayer de rétablir un chef d'Etat déchu rejeté par son peuple, ou de proposer une transition éclair et un gouvernement civil. ***Il***, c'est **le peuple malien**.
+Depuis [le coup d'Etat au Mali](https://bienvenuelisis.github.io/news-noir-meilleur-jekyll/mali-demission-ibk/), ***il*** semble être le premier oublié de toutes les tractations externes et internes qui nagent à contre courant pour essayer de rétablir un chef d'Etat déchu rejeté par son peuple, ou de proposer une transition éclair et un gouvernement civil. ***Il***, c'est **le peuple malien**.
 
 --- 
 La pilule est passée. Presque sans douleurs et heurts. Juste une foule en liesse qui clame être délivrée de *leur tortionnaire*. 

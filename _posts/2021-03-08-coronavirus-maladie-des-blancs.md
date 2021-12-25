@@ -27,7 +27,7 @@ Le 11 mars 2020, le Coronavirus est officiellement recensé comme une pandémie 
 
   
 
-<video src="https://news.noirmeilleur.com/assets/sante/covid-stats/Coronavirus_Propagation_Monde.mp4" controls  width="100%"  height="350px">
+<video src="https://bienvenuelisis.github.io/news-noir-meilleur-jekyll/assets/sante/covid-stats/Coronavirus_Propagation_Monde.mp4" controls  width="100%"  height="350px">
 
 type="video/mp4">
 
@@ -105,7 +105,7 @@ Courbe de l'évolution des morts par million de population.
 
   
 
-Lire : [L'OMS encourage l'Afrique à trouver des remèdes naturelles au COVID19.](https://news.noirmeilleur.com/oms-recommande-med-trad-afrique/)
+Lire : [L'OMS encourage l'Afrique à trouver des remèdes naturelles au COVID19.](https://bienvenuelisis.github.io/news-noir-meilleur-jekyll/oms-recommande-med-trad-afrique/)
 
   
 
@@ -113,7 +113,7 @@ En parcourant les chiffres et les courbes du Coronavirus, un constant important 
 
   
 
-Ces faibles chiffres avaient tout d'abord mis de cours l'OMS et la communauté internationale qui avait prévu [une veritable hécatombe pour l'Afrique](https://news.noirmeilleur.com/oms-recommande-med-trad-afrique/).
+Ces faibles chiffres avaient tout d'abord mis de cours l'OMS et la communauté internationale qui avait prévu [une veritable hécatombe pour l'Afrique](https://bienvenuelisis.github.io/news-noir-meilleur-jekyll/oms-recommande-med-trad-afrique/).
 
 Plusieurs spécialistes et scientifiques du monde se sont penchées sur les véritables raisons qui pourraient expliquer cette résistance de l'Afrique face au virus, laissant aux populations africaines le soin d'élaborer les causes méta-physiques.
 
@@ -175,7 +175,7 @@ De plus en plus de scientifiques admettent que : *le rôle des concentrations é
 
 1.  **Jeunesse de la population.**
 
-Comme expliqué [ici](https://news.noirmeilleur.com/oms-recommande-med-trad-afrique/#r%C3%A9sistance-de-lafrique), 50 % de la population Africaine a moins de 25 ans. Hors le virus entraine des complications, essentiellement les personnes âgées.
+Comme expliqué [ici](https://bienvenuelisis.github.io/news-noir-meilleur-jekyll/oms-recommande-med-trad-afrique/#r%C3%A9sistance-de-lafrique), 50 % de la population Africaine a moins de 25 ans. Hors le virus entraine des complications, essentiellement les personnes âgées.
 
   
 

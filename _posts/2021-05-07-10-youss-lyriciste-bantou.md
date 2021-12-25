@@ -12,7 +12,7 @@ premium: false
 
 Après plus de 400.000 albums, vendus sur terre, Youssoupha,***le prims parolier*** s'attaque aux cieux, pour la sortie de son nouvel album, **Neptune Terminus** . L'occasion rêvée donc pour moi donc de reparcourir toute sa riche discographie, et d'accoucher par écrit tout le bien que je pense de cet musicien hors-norme.
 
-![Youssoupha - Neptune Terminus Pochette](https://news.noirmeilleur.com/assets/culture/youss-neptune.jpg)
+![Youssoupha - Neptune Terminus Pochette](https://bienvenuelisis.github.io/news-noir-meilleur-jekyll/assets/culture/youss-neptune.jpg)
 
 ## Rappeur hors-norme.
 
@@ -24,7 +24,7 @@ Caractéristique rare de plus en plus de nos jours, surtout à l'ère du streami
 
 Son talent et son engagement ont été récompensé de plusieurs disques d'or, et de platine en tant qu'artiste et producteur (notamment à travers ***Bomayé Music***, pour ***Keblack*** ou ***Naza***).
 
-![Youssoupha - Grand Congo](https://news.noirmeilleur.com/assets/culture/youss-congo.jpg)
+![Youssoupha - Grand Congo](https://bienvenuelisis.github.io/news-noir-meilleur-jekyll/assets/culture/youss-congo.jpg)
 
 ## Congo terre natale, pays meurtri source d'inspiration.
 
@@ -35,12 +35,12 @@ Originaire de Congo, pays meurtri par plusieurs conflits interminables, Youssoup
 
 Son engagement et son amour se sublime dans ce morceau magnifique, titré ***Grand Congo*** qui présente Denis Mukwege, le prix Nobel de la Paix congolais, qui est mondialement connu pour son action dans la réparation et l'accompagnement des victimes de crimes de guerre (***surtout le viol des femmes***).
 
-<audio controls link="https://news.noirmeilleur.com/assets/culture/Youssoupha x Denis Mukwege - Grand Congo.mp3">  
-	<source src="https://news.noirmeilleur.com/assets/culture/Youssoupha x Denis Mukwege - Grand Congo.mp3"  type="audio/mpeg">  
+<audio controls link="https://bienvenuelisis.github.io/news-noir-meilleur-jekyll/assets/culture/Youssoupha x Denis Mukwege - Grand Congo.mp3">  
+	<source src="https://bienvenuelisis.github.io/news-noir-meilleur-jekyll/assets/culture/Youssoupha x Denis Mukwege - Grand Congo.mp3"  type="audio/mpeg">  
 Votre média ne supporte pas les contenus audio.  
 </audio>
 
-![Youssoupha - Abidjan](https://news.noirmeilleur.com/assets/culture/youss-abidjan.jpg)
+![Youssoupha - Abidjan](https://bienvenuelisis.github.io/news-noir-meilleur-jekyll/assets/culture/youss-abidjan.jpg)
 
 ## Retour sur le continent.
 
