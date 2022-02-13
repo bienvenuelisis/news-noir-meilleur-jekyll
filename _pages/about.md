@@ -10,7 +10,7 @@ comments: false
     sa diaspora.
     <br><br>
     Ceci est une continuité du site <a target="_blank"
-     href="https://noirmeilleur.com/">Noir Meilleur</a>
+     href="https://bienvenuelisis.github.io/noir-meilleur-jekyll/">Noir Meilleur</a>
     <br>
 </p>
 
